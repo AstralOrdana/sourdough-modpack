@@ -1,0 +1,19 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "S",
+        "/"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:copper_ingot"
+        },
+        "/": {
+            "item": "createaddition:copper_rod"
+        }
+    },
+    "result": {
+        "item": "minecraft:lightning_rod"
+    }
+}

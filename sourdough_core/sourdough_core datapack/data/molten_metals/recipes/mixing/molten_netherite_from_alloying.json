@@ -1,0 +1,29 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "tag": "molten_metals:meltable_copper"
+      },
+      {
+        "tag": "molten_metals:meltable_bismuth",
+        "count": 2
+      },
+      {
+        "tag": "molten_metals:meltable_bismuth",
+        "count": 2
+      },
+      {
+        "item": "minecraft:netherite_scrap"
+      },
+      {
+        "item": "minecraft:netherite_scrap"
+      }
+    ],
+    "results": [
+      {
+        "fluid": "molten_metals:molten_netherite",
+        "amount": 8100
+      }
+    ],
+    "heatRequirement": "heated"
+  }

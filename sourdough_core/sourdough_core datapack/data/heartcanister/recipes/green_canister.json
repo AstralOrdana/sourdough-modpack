@@ -1,0 +1,21 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "heartcanister:empty_canister"
+    },
+    {
+      "fluid": "create:potion",
+      "nbt": {
+        "Bottle": "REGULAR",
+        "Potion": "heartcanister:green_heart"
+      },
+      "amount": 81000
+    }
+  ],
+  "results": [
+    {
+      "item": "heartcanister:green_canister"
+    }
+  ]
+}

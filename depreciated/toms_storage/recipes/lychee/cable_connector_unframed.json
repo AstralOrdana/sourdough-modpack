@@ -1,0 +1,28 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "item": "create:wrench"
+    },
+    "block_in": "toms_storage:ts.inventory_cable_connector_framed",
+    "contextual": {
+        "type": "is_sneaking"
+    },
+    "post": [
+        {
+            "type": "prevent_default"
+        },
+        {
+            "type": "drop_item",
+            "item": "toms_storage:ts.trim"
+        },
+        {
+            "type": "place",
+            "block": "toms_storage:ts.inventory_cable_connector"
+        },
+        {
+            "type": "execute",
+            "command": "playsound create:wrench_remove_compounded_1 block @a ~ ~ ~"
+        }
+    ]
+}
+  

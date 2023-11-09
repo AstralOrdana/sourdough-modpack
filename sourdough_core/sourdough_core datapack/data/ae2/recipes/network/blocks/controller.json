@@ -1,0 +1,66 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "ae2:smooth_sky_stone_block"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "item": "ae2:controller"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ae2:smooth_sky_stone_block"
+        },
+        {
+          "item": "ae2:fluix_crystal"
+        }
+      ],
+      "results": [
+        {
+          "item": "ae2:smooth_sky_stone_block"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ae2:smooth_sky_stone_block"
+        },
+        {
+          "item": "ae2:engineering_processor"
+        }
+      ],
+      "results": [
+        {
+          "item": "ae2:smooth_sky_stone_block"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "ae2:smooth_sky_stone_block"
+        },
+        {
+          "amount": 32400,
+          "fluid": "molten_metals:molten_bismuth"
+        }
+      ],
+      "results": [
+        {
+          "item": "ae2:controller"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "ae2:smooth_sky_stone_block"
+  }
+}

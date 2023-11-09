@@ -1,0 +1,10 @@
+{
+  "type": "spelunkery:grindstone_polishing",
+  "ingredient": "minecraft:amethyst_shard",
+  "result": "createutilities:polished_amethyst",
+  "resultCount": 1,
+  "byproduct": "minecraft:air",
+  "byproductMin": 0,
+  "byproductMax": 1,
+  "experience": 1
+}

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "C",
+      "W"
+    ],
+    "key": {
+        "C": {
+        "item": "create:chute"
+      },
+      "W": {
+        "item": "toms_storage:ts.inventory_cable"
+      }
+    },
+    "result": {
+      "item": "toms_storage:ts.inventory_hopper_basic",
+      "count": 2
+    }
+  }

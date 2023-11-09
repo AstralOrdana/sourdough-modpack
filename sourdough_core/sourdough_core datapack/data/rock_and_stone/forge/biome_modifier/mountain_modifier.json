@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#botania:marimorphosis_mountain_bonus",
+  "features": [
+    "rock_and_stone:noise_mountain"
+  ],
+  "step": "raw_generation"
+}

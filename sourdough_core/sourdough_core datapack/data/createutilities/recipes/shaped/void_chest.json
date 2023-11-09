@@ -1,0 +1,22 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "X",
+        "Z",
+        "Y"
+    ],
+    "key": {
+        "X": {
+            "item": "createutilities:graviton_tube"
+        },
+        "Y": {
+            "item": "create:shadow_steel_casing"
+        },
+        "Z": {
+            "item": "minecraft:chest"
+        }
+    },
+    "result": {
+        "item": "createutilities:void_chest"
+    }
+}

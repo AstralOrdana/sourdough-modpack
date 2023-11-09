@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      ".X.",
+      "XSX",
+      ".X."
+    ],
+    "key": {
+      ".": {
+        "item": "spelunkery:raw_magnetite"
+      },
+      "X": {
+        "item": "minecraft:iron_ingot"
+      },
+      "S": {
+        "item": "spelunkery:raw_magnetite_block"
+      }
+    },
+    "result": {
+      "item": "create_new_age:fluxuated_magnetite"
+    }
+  }

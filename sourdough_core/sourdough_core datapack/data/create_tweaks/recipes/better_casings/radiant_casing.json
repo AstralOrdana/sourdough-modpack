@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "minecraft:logs"
+    },
+    {
+      "item": "create:refined_radiance"
+    }
+  ],
+  "result": {
+    "item": "create:refined_radiance_casing"
+  }
+}

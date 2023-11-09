@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  A",
+    "BCB",
+    "BDB"
+  ],
+  "key": {
+    "A": {
+      "item": "ae2:wireless_receiver"
+    },
+    "B": {
+      "item": "createutilities:void_steel_ingot"
+    },
+    "C": {
+      "tag": "ae2:illuminated_panel"
+    },
+    "D": {
+      "item": "ae2:fluix_pearl"
+    }
+  },
+  "result": {
+    "item": "wormhole:target_device"
+  }
+}

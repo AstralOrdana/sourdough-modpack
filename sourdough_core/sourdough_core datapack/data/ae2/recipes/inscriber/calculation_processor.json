@@ -1,0 +1,79 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "ae2:printed_calculation_processor"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "item": "ae2:calculation_processor"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "ae2:printed_calculation_processor"
+        },
+        {
+          "amount": 8100,
+          "fluid": "molten_metals:molten_mercury"
+        }
+      ],
+      "results": [
+        {
+          "item": "ae2:printed_calculation_processor"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ae2:printed_calculation_processor"
+        },
+        {
+          "item": "ae2:printed_silicon"
+        }
+      ],
+      "results": [
+        {
+          "item": "ae2:printed_calculation_processor"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "ae2:printed_calculation_processor"
+        }
+      ],
+      "results": [
+        {
+          "item": "ae2:printed_calculation_processor"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "ae2:printed_calculation_processor"
+        },
+        {
+          "item": "createaddition:capacitor"
+        }
+      ],
+      "results": [
+        {
+          "item": "ae2:printed_calculation_processor"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "ae2:printed_calculation_processor"
+  }
+}

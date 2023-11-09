@@ -1,0 +1,26 @@
+{  
+  "pack": {
+    "pack_format": 15,
+    "description": "§eSourdough Core"
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "createutilities",
+        "path": "recipes/shaped/gearcube"
+      },
+      {
+        "namespace": "create_new_age",
+        "path": "recipes"
+      },
+      {
+        "namespace": "create_so",
+        "path": "recipes"
+      },
+      {
+        "namespace": "extendedgears",
+        "path": "recipes"
+      }
+    ]
+  }
+}

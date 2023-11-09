@@ -1,0 +1,27 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
+  "pattern": [
+    "  A  ",
+    " PPP ",
+    "APCPA",
+    " PTP "
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:crafting_table"
+    },
+    "A": {
+      "item": "create:mechanical_arm"
+    },
+    "T": {
+      "tag": "ae2:illuminated_panel"
+    },
+    "P": {
+      "item": "ad_astra:steel_plate"
+    }
+  },
+  "result": {
+    "item": "ad_astra:nasa_workbench"
+  }
+}

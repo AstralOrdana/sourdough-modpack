@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	" ~ ",
+    "~W~",
+    " ~ "
+  ],
+  "key": {
+  	"W": {
+      "item": "create:chute"
+    },
+    "~": {
+      "item": "toms_storage:ts.inventory_cable"
+    }
+  },
+  "result": {
+    "item": "toms_storage:ts.inventory_connector"
+  }
+}

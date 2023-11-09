@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      ".X.",
+      "XSX",
+      ".X."
+    ],
+    "key": {
+      ".": {
+        "item": "minecraft:iron_nugget"
+      },
+      "X": {
+        "item": "spelunkery:raw_magnetite"
+      },
+      "S": {
+        "item": "minecraft:iron_block"
+      }
+    },
+    "result": {
+      "item": "create_new_age:layered_magnet"
+    }
+  }

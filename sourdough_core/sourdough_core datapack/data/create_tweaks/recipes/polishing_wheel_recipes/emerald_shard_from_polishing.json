@@ -1,0 +1,14 @@
+{
+  "type": "create_so:polishing",
+  "ingredients": [
+    {
+      "item": "spelunkery:rough_emerald_shard"
+    }
+  ],
+  "processingTime": 23,
+  "results": [
+    {
+      "item": "spelunkery:emerald_shard"
+    }
+  ]
+}

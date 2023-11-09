@@ -1,0 +1,35 @@
+## Added 
+- swingthrough (client)
+- EMI mod integrations (client)
+- farsight (client)
+- better babies + dev resources (server)
+- pingspam (server)
+- affectionate
+- chalk (+ chalk colors)
+- squatgrow
+- crawl
+- vanity slots
+- Elegant Armor
+
+## Removed
+- logprot (caused invulnerability)
+- panda's extra details (rendering issues)
+- show me your skin (crash, replaced by vanity slots)
+
+## Updated
+- Supplementaries
+- Dramatic Doors (QuiFabrge)
+- Moonlight
+- ImmediatelyFast
+- Tree Hollows
+- Fabric API
+- Fabrication
+- Falling Leaves
+- Entity Model Features
+- AutoSlabs
+- Explosive Enhancement
+- Balm
+- Crafting Tweaks--
+- Armorful
+- Diamond In The Rough
+- EnchantmentDescriptions

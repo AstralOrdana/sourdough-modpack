@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "spelunkery:eggplant"
+    },
+    {
+      "item": "minecraft:nether_star"
+    }
+  ],
+  "results": [
+    {
+      "item": "spelunkery:eggplant"
+    },
+    {
+      "item": "minecraft:nether_star"
+    },
+    {
+      "item": "create:chromatic_compound"
+    }
+  ],
+  "heatRequirement": "superheated"
+}

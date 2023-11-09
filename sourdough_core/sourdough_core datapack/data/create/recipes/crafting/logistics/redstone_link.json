@@ -1,0 +1,20 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "L",
+        "W"
+    ],
+    "key": {
+        "L": {
+            "item": "etcetera:light_bulb"
+        },
+        "W": {
+            "item": "create:brass_casing"
+        }
+    },
+    "result": {
+        "item": "create:redstone_link",
+        "count": 2
+    }
+}

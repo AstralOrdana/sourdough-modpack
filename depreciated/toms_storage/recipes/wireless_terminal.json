@@ -1,0 +1,62 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "create:linked_controller"
+    },
+    "results": [
+      {
+        "item": "toms_storage:ts.wireless_terminal"
+      }
+    ],
+    "loops": 1,
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "create:linked_controller"
+          },
+          {
+            "item": "create:precision_mechanism"
+          }
+        ],
+        "results": [
+          {
+            "item": "create:linked_controller"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "create:linked_controller"
+          },
+          {
+            "item": "create:electron_tube"
+          }
+        ],
+        "results": [
+          {
+            "item": "create:linked_controller"
+          }
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "create:linked_controller"
+          }
+        ],
+        "results": [
+          {
+            "item": "toms_storage:ts.wireless_terminal"
+          }
+        ]
+      }
+    ],
+    "transitionalItem": {
+      "item": "create:linked_controller"
+    }
+  }

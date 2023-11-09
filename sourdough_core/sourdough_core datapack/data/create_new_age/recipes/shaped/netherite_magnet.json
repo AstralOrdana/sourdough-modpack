@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      ".X.",
+      "XSX",
+      ".X."
+    ],
+    "key": {
+      ".": {
+        "item": "minecraft:iron_block"
+      },
+      "X": {
+        "item": "spelunkery:raw_magnetite_block"
+      },
+      "S": {
+        "item": "minecraft:netherite_ingot"
+      }
+    },
+    "result": {
+      "item": "create_new_age:netherite_magnet"
+    }
+  }

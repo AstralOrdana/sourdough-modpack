@@ -1,0 +1,28 @@
+{
+  "type": "create_so:polishing",
+  "ingredients": [
+    {
+      "item": "spelunkery:rough_cinnabar_block"
+    }
+  ],
+  "processingTime": 1800,
+  "results": [
+    {
+      "item": "spelunkery:cinnabar_block"
+    },
+    {
+      "count": 9,
+      "item": "minecraft:redstone"
+    },
+    {
+      "count": 18,
+      "chance": 0.75,
+      "item": "minecraft:redstone"
+    },
+    {
+      "count": 18,
+      "chance": 0.50,
+      "item": "spelunkery:saltpeter"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "S#S",
+        "#/#",
+        "SCS"
+    ],
+    "key": {
+        "#": {
+            "item": "createaddition:copper_spool"
+        },
+        "S": {
+            "item": "create:iron_sheet"
+        },
+        "/": {
+            "item": "createaddition:iron_rod"
+        },
+        "C": {
+            "item": "createaddition:capacitor"
+        }
+    },
+    "result": {
+        "item": "createaddition:alternator"
+    }
+}

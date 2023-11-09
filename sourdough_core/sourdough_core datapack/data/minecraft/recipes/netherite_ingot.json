@@ -1,0 +1,26 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "fluid": "molten_metals:molten_copper",
+      "amount": 8100
+    },
+    {
+      "fluid": "molten_metals:molten_bismuth",
+      "amount": 16200
+    }
+  ],
+  "results": [
+    {
+      "fluid": "molten_metals:molten_netherite",
+      "amount": 8100
+    }
+  ],
+  "heatRequirement": "heated"
+}

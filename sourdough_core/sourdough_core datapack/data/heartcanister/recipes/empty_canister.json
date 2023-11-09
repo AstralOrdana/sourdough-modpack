@@ -1,0 +1,16 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "create:iron_sheet"
+        }
+    },
+    "result": {
+        "item": "heartcanister:empty_canister",
+        "count": 2
+    }
+}

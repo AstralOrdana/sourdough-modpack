@@ -1,0 +1,19 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "/#/",
+        "/#/"
+    ],
+    "key": {
+        "/": {
+            "item": "createaddition:iron_rod"
+        },
+        "#": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "supplementaries:iron_gate"
+    }
+}

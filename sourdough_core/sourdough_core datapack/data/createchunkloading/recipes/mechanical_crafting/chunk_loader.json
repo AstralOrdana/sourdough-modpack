@@ -1,0 +1,28 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
+  "pattern": [
+    " AAA ",
+    "ASPSA",
+    "APXPA",
+    "ASPSA",
+    " AAA "
+  ],
+  "key": {
+    "A": {
+      "tag": "c:colorless_glass"
+    },
+    "S": {
+      "item": "minecraft:emerald"
+    },
+    "P": {
+      "item": "spelunkery:portal_fluid_bottle"
+    },
+    "X": {
+      "item": "create:precision_mechanism"
+    }
+  },
+  "result": {
+    "item": "createchunkloading:chunk_loader"
+  }
+}

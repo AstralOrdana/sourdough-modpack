@@ -1,0 +1,96 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "toms_storage:ts.wireless_terminal"
+    },
+    "results": [
+      {
+        "item": "toms_storage:ts.adv_wireless_terminal"
+      }
+    ],
+    "loops": 1,
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "toms_storage:ts.wireless_terminal"
+          },
+          {
+            "item": "create:sturdy_sheet"
+          }
+        ],
+        "results": [
+          {
+            "item": "toms_storage:ts.wireless_terminal"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "toms_storage:ts.wireless_terminal"
+          },
+          {
+            "item": "create:display_link"
+          }
+        ],
+        "results": [
+          {
+            "item": "toms_storage:ts.wireless_terminal"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "toms_storage:ts.wireless_terminal"
+          },
+          {
+            "item": "minecraft:netherite_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": "toms_storage:ts.wireless_terminal"
+          }
+        ]
+      },
+      {
+        "type": "create:filling",
+        "ingredients": [
+          {
+            "item": "toms_storage:ts.wireless_terminal"
+          },
+          {
+            "amount": 40500,
+            "fluid": "spelunkery:portal_fluid",
+            "nbt": {}
+          }
+        ],
+        "results": [
+          {
+            "item": "toms_storage:ts.wireless_terminal"
+          }
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "toms_storage:ts.wireless_terminal"
+          }
+        ],
+        "results": [
+          {
+            "item": "toms_storage:ts.adv_wireless_terminal"
+          }
+        ]
+      }
+    ],
+    "transitionalItem": {
+      "item": "toms_storage:ts.wireless_terminal"
+    }
+  }

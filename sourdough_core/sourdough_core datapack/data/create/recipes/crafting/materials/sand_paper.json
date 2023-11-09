@@ -1,0 +1,19 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+          "tag": "minecraft:sand"
+        },
+        {
+          "item": "minecraft:paper"
+        },
+        {
+          "item": "minecraft:slime_ball"
+        }
+    ],
+    "results": [
+      {
+        "item": "create:sand_paper"
+      }
+    ]
+  }

@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#botania:marimorphosis_fungal_bonus",
+  "features": [
+    "rock_and_stone:noise_fungal"
+  ],
+  "step": "raw_generation"
+}

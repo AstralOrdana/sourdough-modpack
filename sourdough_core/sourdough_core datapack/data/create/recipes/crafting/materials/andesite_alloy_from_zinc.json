@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "BA",
+      "AB"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:andesite"
+      },
+      "B": [
+        {"item": "spelunkery:raw_iron_nugget"},
+        {"item": "spelunkery:raw_zinc_nugget"}
+      ]
+    },
+    "result": {
+      "item": "create:andesite_alloy",
+      "count": 2
+    }
+  }

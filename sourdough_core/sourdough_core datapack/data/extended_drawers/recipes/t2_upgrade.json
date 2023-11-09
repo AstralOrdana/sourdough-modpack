@@ -1,0 +1,23 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "///",
+        "FSF",
+        "///"
+    ],
+    "key": {
+        "/": {
+            "item": "createaddition:iron_rod"
+        },
+        "S": {
+            "item": "minecraft:barrel"
+        },
+        "F": {
+            "item": "extended_drawers:upgrade_frame"
+        }
+    },
+    "result": {
+        "item": "extended_drawers:t2_upgrade"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "///",
+        "FSF",
+        "///"
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:end_rod"
+        },
+        "S": {
+            "tag": "c:shulker_boxes"
+        },
+        "F": {
+            "item": "extended_drawers:upgrade_frame"
+        }
+    },
+    "result": {
+        "item": "extended_drawers:t4_upgrade"
+    }
+}

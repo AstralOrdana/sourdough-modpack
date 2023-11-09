@@ -1,0 +1,24 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
+  "pattern": [
+    "Z",
+    "P",
+    "Z",
+    "W"
+  ],
+  "key": {
+    "Z": {
+      "item": "createaddition:zinc_sheet"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "W": {
+      "item": "createaddition:copper_wire"
+    }
+  },
+  "result": {
+    "item": "createaddition:capacitor"
+  }
+}

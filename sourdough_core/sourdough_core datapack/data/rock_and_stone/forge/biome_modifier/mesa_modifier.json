@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#botania:marimorphosis_mesa_bonus",
+  "features": [
+    "rock_and_stone:noise_mesa"
+  ],
+  "step": "raw_generation"
+}

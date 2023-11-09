@@ -1,0 +1,20 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        " # ",
+        "W#W",
+        "WWW"
+    ],
+    "key": {
+        "#": {
+            "item": "create:shaft"
+        },
+        "W": {
+            "tag": "minecraft:wooden_slabs"
+        }
+    },
+    "result": {
+        "item": "create:whisk"
+    }
+}

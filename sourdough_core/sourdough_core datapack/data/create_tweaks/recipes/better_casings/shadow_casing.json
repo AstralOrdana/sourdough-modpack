@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "minecraft:logs"
+    },
+    {
+      "item": "create:shadow_steel"
+    }
+  ],
+  "result": {
+    "item": "create:shadow_steel_casing"
+  }
+}

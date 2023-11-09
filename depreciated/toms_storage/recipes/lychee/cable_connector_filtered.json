@@ -1,0 +1,24 @@
+{
+    "type": "lychee:block_interacting",
+    "item_in": {
+        "item": "create:electron_tube"
+    },
+    "block_in": "toms_storage:ts.inventory_cable_connector",
+    "contextual": {
+      "type": "not",
+      "contextual": {
+        "type": "is_sneaking"
+      }
+    },
+    "post": [
+        {
+            "type": "place",
+            "block": "toms_storage:ts.inventory_cable_connector_filtered"
+        },
+        {
+            "type": "execute",
+            "command": "playsound create:wrench_remove_compounded_1 block @a ~ ~ ~"
+        }
+    ]
+}
+  

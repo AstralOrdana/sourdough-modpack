@@ -1,0 +1,23 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "L",
+        "W",
+        "S"
+    ],
+    "key": {
+        "L": {
+            "item": "etcetera:light_bulb"
+        },
+        "W": {
+            "item": "create:brass_casing"
+        },
+        "S": {
+            "item": "create:copper_sheet"
+        }
+    },
+    "result": {
+        "item": "create:display_link"
+    }
+}

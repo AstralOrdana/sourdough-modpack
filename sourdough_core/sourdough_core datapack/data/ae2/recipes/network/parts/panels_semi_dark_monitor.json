@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " ab",
+      "cdb",
+      " ab"
+    ],
+    "key": {
+      "a": {
+        "tag": "c:glowstone_dusts"
+      },
+      "b": {
+        "item": "supplementaries:crystal_display"
+      },
+      "c": {
+        "tag": "c:iron_ingots"
+      },
+      "d": {
+        "tag": "c:redstone_dusts"
+      }
+    },
+    "result": {
+      "count": 3,
+      "item": "ae2:semi_dark_monitor"
+    }
+  }

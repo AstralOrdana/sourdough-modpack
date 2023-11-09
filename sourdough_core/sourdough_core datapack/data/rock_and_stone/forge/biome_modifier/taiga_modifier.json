@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#botania:marimorphosis_taiga_bonus",
+  "features": [
+    "rock_and_stone:noise_taiga"
+  ],
+  "step": "raw_generation"
+}

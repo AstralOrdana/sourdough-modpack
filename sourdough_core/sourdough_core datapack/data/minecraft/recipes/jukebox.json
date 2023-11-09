@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shaped",
+  "group": "bark",
+  "pattern": [
+    "#S#",
+    "N N",
+    "#N#"
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:planks"
+    },
+    "N": {
+      "item": "minecraft:note_block"
+    },
+    "S": {
+      "item": "supplementaries:speaker_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:jukebox"
+  }
+}

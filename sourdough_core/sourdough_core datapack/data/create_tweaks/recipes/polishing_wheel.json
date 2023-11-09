@@ -1,0 +1,31 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "minecraft:sand"
+    },
+    {
+      "item": "spelunkery:rough_diamond_shard"
+    },
+    {
+      "item": "spelunkery:rough_diamond_shard"
+    },
+    {
+      "item": "spelunkery:rough_diamond_shard"
+    },
+    {
+      "item": "spelunkery:rough_diamond_shard"
+    },
+    {
+      "item": "create:crushing_wheel"
+    },
+    {
+      "item": "minecraft:slime_ball"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_so:polishing_wheel"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+    "type": "lychee:block_interacting",
+    "block_in": {
+      "blocks": [
+          "extendedgears:large_half_shaft_cogwheel"
+      ],
+      "state": {
+          "axis_direction": "true",
+          "axis": "x"
+      }
+  },
+  "contextual": [
+    {
+      "type": "and",
+      "contextual": [
+        {
+          "type": "direction",
+          "direction": "east"
+        },
+        {
+          "type": "not",
+          "contextual": {
+            "type": "is_sneaking"
+          }
+        }
+      ]
+    }
+  ],
+    "post": [
+        {
+            "type": "execute",
+            "command": "playsound create:wrench_remove_compounded_1 block @a ~ ~ ~"
+        },
+        {
+            "type": "prevent_default"
+        },
+        {
+          "type": "place",
+          "block": {
+            "blocks": [
+              "extendedgears:large_shaftless_cogwheel"
+            ],
+            "state": {
+              "axis": "x"
+            }
+          }
+        }
+    ],
+    "item_in": {
+      "item": "create:wrench"
+    }
+  }
+  

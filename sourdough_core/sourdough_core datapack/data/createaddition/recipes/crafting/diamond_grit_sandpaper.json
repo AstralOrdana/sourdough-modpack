@@ -1,0 +1,28 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+          "item": "spelunkery:rough_diamond_shard"
+        },
+        {
+          "item": "spelunkery:rough_diamond_shard"
+        },
+        {
+          "item": "spelunkery:rough_diamond_shard"
+        },
+        {
+          "item": "spelunkery:rough_diamond_shard"
+        },
+        {
+          "item": "minecraft:paper"
+        },
+        {
+          "item": "minecraft:slime_ball"
+        }
+    ],
+    "results": [
+      {
+        "item": "createaddition:diamond_grit_sandpaper"
+      }
+    ]
+  }

@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "molten_metals:meltable_zinc"
+    },
+    {
+      "item": "minecraft:fire_charge"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "molten_metals:molten_zinc",
+      "amount": 8100
+    }
+  ]
+}

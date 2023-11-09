@@ -1,0 +1,19 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#",
+        "/"
+    ],
+    "key": {
+        "#": {
+            "item": "spelunkery:cinnabar"
+        },
+        "/": {
+            "item": "toms_storage:ts.inventory_cable"
+        }
+    },
+    "result": {
+        "item": "toms_storage:ts.inventory_cable_connector"
+    }
+}

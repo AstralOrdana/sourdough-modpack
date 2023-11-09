@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+      " L ",
+      "LCL",
+      " L "
+    ],
+    "key": {
+      "L":{
+        "item": "minecraft:emerald"
+      },
+      "C":{
+        "item": "spelunkery:cinnabar"
+      }
+    },
+    "result": {
+      "item": "naturescompass:naturescompass"
+    }
+  }

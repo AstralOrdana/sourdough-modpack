@@ -1,0 +1,26 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "//H",
+        "/  ",
+        "BA "
+    ],
+    "key": {
+        "/": {
+            "item": "createaddition:brass_rod"
+        },
+        "A": {
+            "item": "create:brass_casing"
+        },
+        "B": {
+            "item": "create:precision_mechanism"
+        },
+        "H": {
+            "item": "create:brass_hand"
+        }
+    },
+    "result": {
+        "item": "create:mechanical_arm"
+    }
+}

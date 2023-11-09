@@ -1,0 +1,23 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "S#S",
+        "#C#",
+        "S#S"
+    ],
+    "key": {
+        "#": {
+            "item": "ae2:quartz_glass"
+        },
+        "S": {
+            "item": "minecraft:iron_ingot"
+        },
+        "C": {
+            "item": "create:zinc_ingot"
+        }
+    },
+    "result": {
+        "item": "ae2:energy_acceptor"
+    }
+}

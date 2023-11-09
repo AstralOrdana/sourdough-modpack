@@ -1,0 +1,219 @@
+## Client-side mods
+Accurate Block Placement
+Advancement Plaques
+Ambient Environment
+Antighost
+Armorchroma
+Backburner
+Better Block Sounds
+Better Clouds
+Better F3
+Better Mount Hud
+Better Trim Tooltips
+CITRespawn
+Clickthrough
+Compact Chat
+Continuity
+Controlify
+Controlling
+Ding
+Disable Custom Worlds Advice
+Dynamic Crosshair
+Dynamic FPS
+Dynamic Trim
+Ears
+Eating Animation
+Emi
+Emi Loot
+Enchantment Descriptions
+Enhanced Block Entities
+Entity Model Features
+Entity Texture Features
+Entity Culling
+Equipment Compare
+Explosive Enhancement
+Extra Details
+Fabric Skyboxes
+FSB Interop
+Falling Leaves
+Fastquit
+Fog Looks Good Now
+Fuel Info
+Highlighter
+Highlight
+Horse Stats Vanilla
+Immediately Fast
+Inventory Profiles Next
+Jump Sounds
+Language Reload
+Make Bubbles Pop
+Modelfix
+Mod Menu
+More Chat History
+More Culling
+Mouse Tweaks
+Namepain
+Presence Footsteps
+Reimagined Menus
+Seamless
+Searchables
+Show Me Your Skin
+Shulker Box Tooltip
+Sound Physics
+Sparkle
+Spyglass Astronomy
+Spyglass Improvements
+Status Effect Bars
+Toolstats
+Travellers Toasts
+Wakes
+Whats That Slot
+Xaeros Minimap
+Xaeros Worldmap
+
+
+
+## Content Mods
+Create
+Create Steam & Rails
+Create Utilities
+Create Mod Trims
+Do a Barrel Roll
+Dramatic Doors
+Enchantery
+Etcetera
+Etcetera Thigh Highs
+End Remastered
+Farmers Delight
+Goated
+Heart Canister
+Items Displayed
+Milk+
+Numismatic Overhaul
+Ochetgenyo
+Pack it Up
+Snow Real Magic
+Sooty Chimneys
+Unreleased Spelunkery Beta
+Supplementaries
+Supp Squared
+Archaeology Plus
+Armorful
+Blahaj
+Bodies Bodies
+Cherish
+Comforts
+Diamond In The Rough
+Windchimes
+Amplified Nether
+
+
+
+## Minor Tweak mods
+Autoslabs
+Beacon Overhaul
+Better Climbing
+Better Lilypads
+Better Trims
+Buoyant
+Carpeted
+Companion
+Connectable Chains
+Crafting Tweaks
+Crops Love Rain
+Crossbow Release
+Easy Anvils
+Easy Magic
+Experienced Crops
+Fabrication
+FallingTree
+Fast Paintings
+Flamearrows
+Fluidlogged
+Head in the Clouds
+Heartstone
+Herds Panic
+Horse Buff
+Inventorio
+Labels
+Leaves Us In Peace
+Localized Fishing Loot
+Logprot
+More Banner Features
+Moyai
+On Soul Fire
+Pickup Notifier
+Pigs Have Litters
+Pockets
+Randomium
+Random Mob Sizes
+Rare Ice
+Shards
+Smarter Farmers
+Snow Under Trees
+Snowy Sniffer
+Stackable Flowers
+Stairdoors
+Stylish Stiles
+Tool Trims
+Tree Hollows
+Vein Mining
+Visual Workbench
+Wither Skeleton Archers
+Dyed
+Anvil Crushing Recipes
+Arrow Entity Loot Drop
+Arrow Popper
+Bettermaps
+Better than Mending
+Couplings
+Dyeable Shulkers
+Flame Sweeping
+Gravel Miner
+Liberty Villagers
+Logical Dye Mixing
+Raw Ores Processing
+Reimagined Trims
+Show Me What You Got
+Sourdough Core
+Take A Seat
+Tidal Towns
+Unionized Villagers
+Unloaded Activity
+
+
+
+## Util & Lib mods
+Architectury
+Balm
+Bookshelf
+Cupboard
+Fapi
+Kotlin
+ForgeConfigAPI
+Iceberg
+Kiwi
+libIPN
+Moonlight
+PuzzlesLib
+Resourceful Lib
+Alternate Current
+Argonauts
+Cadmus
+Chunkumulator
+Convenient Mob Grief
+Bad Packets
+Cloth Config
+Complete Config
+Ferrite Core
+Heracles
+Jade
+Lazydfu
+Mixintrace
+Pehuki
+Polymorph
+Simple Trims
+Spark
+Trinkets
+YACL
+YOSBR

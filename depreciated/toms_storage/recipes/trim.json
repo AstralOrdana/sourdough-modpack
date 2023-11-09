@@ -1,0 +1,24 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "C#C",
+        "#/#",
+        "C#C"
+    ],
+    "key": {
+        "#": {
+            "item": "create:zinc_ingot"
+        },
+        "/": {
+            "item": "toms_storage:ts.inventory_cable"
+        },
+        "C": {
+            "tag": "minecraft:planks"
+        }
+    },
+    "result": {
+        "item": "toms_storage:ts.trim",
+        "count": 8
+    }
+}

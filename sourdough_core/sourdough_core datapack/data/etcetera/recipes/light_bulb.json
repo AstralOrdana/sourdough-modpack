@@ -1,0 +1,24 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "WWW",
+        "W#W",
+        " S "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:glowstone"
+        },
+        "W": {
+            "tag": "c:colorless_glass"
+        },
+        "S": {
+            "item": "createaddition:copper_wire"
+        }
+    },
+    "result": {
+        "item": "etcetera:light_bulb",
+        "count": 4
+    }
+}

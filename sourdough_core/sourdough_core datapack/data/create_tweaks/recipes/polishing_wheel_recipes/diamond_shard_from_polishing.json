@@ -1,0 +1,14 @@
+{
+  "type": "create_so:polishing",
+  "ingredients": [
+    {
+      "item": "spelunkery:rough_diamond_shard"
+    }
+  ],
+  "processingTime": 23,
+  "results": [
+    {
+      "item": "spelunkery:diamond_shard"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ADA"
+  ],
+  "key": {
+    "A": {
+      "item": "createutilities:void_steel_ingot"
+    },
+    "B": {
+      "item": "ad_astra:ostrum_plate"
+    },
+    "C": {
+      "item": "ae2:fluix_pearl"
+    },
+    "D": {
+      "tag": "ae2:illuminated_panel"
+    }
+  },
+  "result": {
+    "item": "wormhole:portal_stabilizer"
+  }
+}

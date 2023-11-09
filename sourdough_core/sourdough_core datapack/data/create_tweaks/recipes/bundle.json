@@ -1,0 +1,20 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "S#S",
+        "# #",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "farmersdelight:canvas"
+        },
+        "S": {
+            "item": "minecraft:string"
+        }
+    },
+    "result": {
+        "item": "minecraft:bundle"
+    }
+}

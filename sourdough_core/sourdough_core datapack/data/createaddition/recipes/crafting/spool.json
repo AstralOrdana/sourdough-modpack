@@ -1,0 +1,21 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "_",
+        "/",
+        "_"
+    ],
+    "key": {
+        "/": {
+            "item": "createaddition:iron_rod"
+        },
+        "_": {
+            "item": "create:iron_sheet"
+        }
+    },
+    "result": {
+        "item": "createaddition:spool",
+        "count": 16
+    }
+}

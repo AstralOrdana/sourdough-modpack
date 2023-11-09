@@ -1,0 +1,19 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "SS",
+        "/ "
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "S": {
+            "item": "minecraft:flint"
+        }
+    },
+    "result": {
+        "item": "earlystage:flint_axe"
+    }
+}

@@ -1,0 +1,23 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "S#S",
+        "#C#",
+        "S#S"
+    ],
+    "key": {
+        "#": {
+            "item": "createaddition:capacitor"
+        },
+        "S": {
+            "tag": "c:certus_quartz"
+        },
+        "C": {
+            "item": "ae2:fluix_dust"
+        }
+    },
+    "result": {
+        "item": "ae2:energy_cell"
+    }
+}
