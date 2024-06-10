@@ -1,0 +1,50 @@
+{
+    "added": [
+      {
+        "stack": "item:minecraft:bundle",
+        "after": "item:minecraft:white_stained_glass_pane"
+      },
+      {
+        "stack": "item:scout:upgraded_satchel",
+        "after": "item:minecraft:white_stained_glass_pane"
+      },
+      {
+        "stack": "item:scout:satchel",
+        "after": "item:minecraft:white_stained_glass_pane"
+      },
+      {
+        "stack": "item:scout:upgraded_pouch",
+        "after": "item:minecraft:white_stained_glass_pane"
+      },
+      {
+        "stack": "item:scout:pouch",
+        "after": "item:minecraft:white_stained_glass_pane"
+      },
+      {
+        "stack": "item:netherchested:nether_chest",
+        "after": "item:minecraft:ender_chest"
+      },
+      {
+        "stack": "item:createutilities:void_chest",
+        "after": "item:minecraft:ender_chest"
+      },
+      {
+        "stack": "item:scout:satchel_strap",
+        "after": "item:minecraft:leather"
+      },
+      {
+        "stack": "item:scout:tanned_leather",
+        "after": "item:minecraft:leather"
+      }
+    ],
+    "removed": [
+      "item:netherchested:nether_chest",
+      "item:createutilities:void_chest",
+      "item:scout:tanned_leather",
+      "item:scout:satchel_strap",
+      "item:scout:satchel",
+      "item:scout:upgraded_satchel",
+      "item:scout:pouch",
+      "item:scout:upgraded_pouch"
+    ]
+  }

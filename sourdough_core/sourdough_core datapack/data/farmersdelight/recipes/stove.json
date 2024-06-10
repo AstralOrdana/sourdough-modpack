@@ -1,0 +1,26 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#_#",
+        "B B",
+        "BCB"
+    ],
+    "key": {
+        "#": {
+            "item": "createdeco:industrial_iron_sheet"
+        },
+        "_": {
+            "item": "createdeco:industrial_iron_bars"
+        },
+        "C": {
+            "item": "minecraft:campfire"
+        },
+        "B": {
+            "item": "minecraft:bricks"
+        }
+    },
+    "result": {
+        "item": "farmersdelight:stove"
+    }
+}

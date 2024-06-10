@@ -1,0 +1,381 @@
+{
+  "added": [
+    {
+      "stack": "item:everycomp:hnhome/create_dd/spirit_parquet",
+      "after": "item:hearth_and_home:cherry_parquet"
+    },
+    {
+      "stack": "item:everycomp:hnhome/create_dd/smoked_parquet",
+      "after": "item:hearth_and_home:cherry_parquet"
+    },
+    {
+      "stack": "item:everycomp:hnhome/create_dd/rose_parquet",
+      "after": "item:hearth_and_home:cherry_parquet"
+    },
+    {
+      "stack": "item:everycomp:hnhome/create_dd/rubber_parquet",
+      "after": "item:hearth_and_home:cherry_parquet"
+    },
+    {
+      "stack": "item:everycomp:hnhome/create_dd/spirit_trim",
+      "after": "item:hearth_and_home:cherry_trim"
+    },
+    {
+      "stack": "item:everycomp:hnhome/create_dd/smoked_trim",
+      "after": "item:hearth_and_home:cherry_trim"
+    },
+    {
+      "stack": "item:everycomp:hnhome/create_dd/rose_trim",
+      "after": "item:hearth_and_home:cherry_trim"
+    },
+    {
+      "stack": "item:everycomp:hnhome/create_dd/rubber_trim",
+      "after": "item:hearth_and_home:cherry_trim"
+    },
+    {
+      "stack": "item:everycomp:hnhome/create_dd/spirit_vertical_trim",
+      "after": "item:hearth_and_home:cherry_vertical_trim"
+    },
+    {
+      "stack": "item:everycomp:hnhome/create_dd/smoked_vertical_trim",
+      "after": "item:hearth_and_home:cherry_vertical_trim"
+    },
+    {
+      "stack": "item:everycomp:hnhome/create_dd/rose_vertical_trim",
+      "after": "item:hearth_and_home:cherry_vertical_trim"
+    },
+    {
+      "stack": "item:everycomp:hnhome/create_dd/rubber_vertical_trim",
+      "after": "item:hearth_and_home:cherry_vertical_trim"
+    },
+    {
+      "stack": "item:everycomp:hnhome/create_dd/spirit_lattice",
+      "after": "item:hearth_and_home:cherry_lattice"
+    },
+    {
+      "stack": "item:everycomp:hnhome/create_dd/smoked_lattice",
+      "after": "item:hearth_and_home:cherry_lattice"
+    },
+    {
+      "stack": "item:everycomp:hnhome/create_dd/rose_lattice",
+      "after": "item:hearth_and_home:cherry_lattice"
+    },
+    {
+      "stack": "item:everycomp:hnhome/create_dd/rubber_lattice",
+      "after": "item:hearth_and_home:cherry_lattice"
+    },
+    {
+      "stack": "item:everycomp:hnhome/create_dd/spirit_sanded_wood",
+      "after": "item:hearth_and_home:cherry_sanded_wood"
+    },
+    {
+      "stack": "item:everycomp:hnhome/create_dd/smoked_sanded_wood",
+      "after": "item:hearth_and_home:cherry_sanded_wood"
+    },
+    {
+      "stack": "item:everycomp:hnhome/create_dd/rose_sanded_wood",
+      "after": "item:hearth_and_home:cherry_sanded_wood"
+    },
+    {
+      "stack": "item:everycomp:hnhome/create_dd/rubber_sanded_wood",
+      "after": "item:hearth_and_home:cherry_sanded_wood"
+    },
+
+    {
+      "stack": "item:everycomp:db/create_dd/spirit_palisade",
+      "after": "item:decorative_blocks:cherry_palisade"
+    },
+    {
+      "stack": "item:everycomp:db/create_dd/smoked_palisade",
+      "after": "item:decorative_blocks:cherry_palisade"
+    },
+    {
+      "stack": "item:everycomp:db/create_dd/rose_palisade",
+      "after": "item:decorative_blocks:cherry_palisade"
+    },
+    {
+      "stack": "item:everycomp:db/create_dd/rubber_palisade",
+      "after": "item:decorative_blocks:cherry_palisade"
+    },
+    {
+      "stack": "item:everycomp:db/create_dd/spirit_support",
+      "after": "item:decorative_blocks:cherry_support"
+    },
+    {
+      "stack": "item:everycomp:db/create_dd/smoked_support",
+      "after": "item:decorative_blocks:cherry_support"
+    },
+    {
+      "stack": "item:everycomp:db/create_dd/rose_support",
+      "after": "item:decorative_blocks:cherry_support"
+    },
+    {
+      "stack": "item:everycomp:db/create_dd/rubber_support",
+      "after": "item:decorative_blocks:cherry_support"
+    },
+    {
+      "stack": "item:everycomp:db/create_dd/spirit_seat",
+      "after": "item:decorative_blocks:cherry_seat"
+    },
+    {
+      "stack": "item:everycomp:db/create_dd/smoked_seat",
+      "after": "item:decorative_blocks:cherry_seat"
+    },
+    {
+      "stack": "item:everycomp:db/create_dd/rose_seat",
+      "after": "item:decorative_blocks:cherry_seat"
+    },
+    {
+      "stack": "item:everycomp:db/create_dd/rubber_seat",
+      "after": "item:decorative_blocks:cherry_seat"
+    },
+    {
+      "stack": "item:everycomp:db/create_dd/spirit_beam",
+      "after": "item:decorative_blocks:cherry_beam"
+    },
+    {
+      "stack": "item:everycomp:db/create_dd/smoked_beam",
+      "after": "item:decorative_blocks:cherry_beam"
+    },
+    {
+      "stack": "item:everycomp:db/create_dd/rose_beam",
+      "after": "item:decorative_blocks:cherry_beam"
+    },
+    {
+      "stack": "item:everycomp:db/create_dd/rubber_beam",
+      "after": "item:decorative_blocks:cherry_beam"
+    },
+
+    {
+      "stack": "item:everycomp:fd/create_dd/spirit_cabinet",
+      "after": "item:farmersdelight:cherry_cabinet"
+    },
+    {
+      "stack": "item:everycomp:fd/create_dd/smoked_cabinet",
+      "after": "item:farmersdelight:cherry_cabinet"
+    },
+    {
+      "stack": "item:everycomp:fd/create_dd/rose_cabinet",
+      "after": "item:farmersdelight:cherry_cabinet"
+    },
+    {
+      "stack": "item:everycomp:fd/create_dd/rubber_cabinet",
+      "after": "item:farmersdelight:cherry_cabinet"
+    },
+
+    {
+      "stack": "item:everycomp:c/create_dd/spirit_window",
+      "after": "item:create:mangrove_window"
+    },
+    {
+      "stack": "item:everycomp:c/create_dd/smoked_window",
+      "after": "item:create:mangrove_window"
+    },
+    {
+      "stack": "item:everycomp:c/create_dd/rose_window",
+      "after": "item:create:mangrove_window"
+    },
+    {
+      "stack": "item:everycomp:c/create_dd/rubber_window",
+      "after": "item:create:mangrove_window"
+    },
+    {
+      "stack": "item:createdeco:zinc_window",
+      "after": "item:create:ornate_iron_window"
+    },
+    {
+      "stack": "item:createdeco:brass_window",
+      "after": "item:create:ornate_iron_window"
+    },
+    {
+      "stack": "item:createdeco:industrial_iron_window",
+      "after": "item:create:ornate_iron_window"
+    },
+    {
+      "stack": "item:createdeco:iron_window",
+      "after": "item:create:ornate_iron_window"
+    },
+    {
+      "stack": "item:createdeco:copper_window",
+      "after": "item:create:ornate_iron_window"
+    },
+    {
+      "stack": "item:createdeco:andesite_window",
+      "after": "item:create:ornate_iron_window"
+    },
+    {
+      "stack": "item:create_dd:ornate_iron_glass",
+      "after": "item:create:ornate_iron_window"
+    },
+
+
+    
+    {
+      "stack": "item:everycomp:c/create_dd/spirit_window_pane",
+      "after": "item:create:mangrove_window_pane"
+    },
+    {
+      "stack": "item:everycomp:c/create_dd/smoked_window_pane",
+      "after": "item:create:mangrove_window_pane"
+    },
+    {
+      "stack": "item:everycomp:c/create_dd/rose_window_pane",
+      "after": "item:create:mangrove_window_pane"
+    },
+    {
+      "stack": "item:everycomp:c/create_dd/rubber_window_pane",
+      "after": "item:create:mangrove_window_pane"
+    },
+    {
+      "stack": "item:createdeco:zinc_window_pane",
+      "after": "item:create:ornate_iron_window_pane"
+    },
+    {
+      "stack": "item:createdeco:brass_window_pane",
+      "after": "item:create:ornate_iron_window_pane"
+    },
+    {
+      "stack": "item:createdeco:industrial_iron_window_pane",
+      "after": "item:create:ornate_iron_window_pane"
+    },
+    {
+      "stack": "item:createdeco:iron_window_pane",
+      "after": "item:create:ornate_iron_window_pane"
+    },
+    {
+      "stack": "item:createdeco:copper_window_pane",
+      "after": "item:create:ornate_iron_window_pane"
+    },
+    {
+      "stack": "item:createdeco:andesite_window_pane",
+      "after": "item:create:ornate_iron_window_pane"
+    },
+    {
+      "stack": "item:create_dd:ornate_iron_glass_pane",
+      "after": "item:create:ornate_iron_window_pane"
+    },
+
+    {
+      "stack": "item:supplementaries:create_dd/sign_post_rubber",
+      "after": "item:supplementaries:sign_post_cherry"
+    },
+    {
+      "stack": "item:supplementaries:create_dd/sign_post_rose",
+      "after": "item:supplementaries:sign_post_cherry"
+    },
+    {
+      "stack": "item:supplementaries:create_dd/sign_post_smoked",
+      "after": "item:supplementaries:sign_post_cherry"
+    },
+    {
+      "stack": "item:supplementaries:create_dd/sign_post_spirit",
+      "after": "item:supplementaries:sign_post_cherry"
+    },
+
+
+    
+    {
+      "stack": "item:create_dd:vertical_framed_split_glass",
+      "after": "item:create:vertical_framed_glass"
+    },
+    {
+      "stack": "item:create_dd:horizontal_framed_split_glass",
+      "after": "item:create:horizontal_framed_glass"
+    },
+    {
+      "stack": "item:create_dd:framed_split_glass",
+      "after": "item:create:tiled_glass"
+    },
+    {
+      "stack": "item:create_dd:vertical_framed_split_glass_pane",
+      "after": "item:create:vertical_framed_glass_pane"
+    },
+    {
+      "stack": "item:create_dd:horizontal_framed_split_glass_pane",
+      "after": "item:create:horizontal_framed_glass_pane"
+    },
+    {
+      "stack": "item:create_dd:framed_split_glass_pane",
+      "after": "item:create:tiled_glass_pane"
+    }
+  ],
+  "removed": [
+    "item:supplementaries:create_dd/sign_post_rubber",
+    "item:supplementaries:create_dd/sign_post_rose",
+    "item:supplementaries:create_dd/sign_post_smoked",
+    "item:supplementaries:create_dd/sign_post_spirit",
+
+    "item:createdeco:zinc_window",
+    "item:createdeco:brass_window",
+    "item:createdeco:copper_window",
+    "item:createdeco:iron_window",
+    "item:createdeco:industrial_iron_window",
+    "item:createdeco:andesite_window",
+    "item:create_dd:ornate_iron_glass",
+    "item:createdeco:zinc_window_pane",
+    "item:createdeco:brass_window_pane",
+    "item:createdeco:copper_window_pane",
+    "item:createdeco:iron_window_pane",
+    "item:createdeco:industrial_iron_window_pane",
+    "item:createdeco:andesite_window_pane",
+    "item:create_dd:ornate_iron_glass_pane",
+
+    "item:create_dd:vertical_framed_split_glass",
+    "item:create_dd:horizontal_framed_split_glass",
+    "item:create_dd:framed_split_glass",
+    "item:create_dd:vertical_framed_split_glass_pane",
+    "item:create_dd:horizontal_framed_split_glass_pane",
+    "item:create_dd:framed_split_glass_pane",
+
+    "item:everycomp:fd/create_dd/rubber_cabinet",
+    "item:everycomp:fd/create_dd/rose_cabinet",
+    "item:everycomp:fd/create_dd/smoked_cabinet",
+    "item:everycomp:fd/create_dd/spirit_cabinet",
+    "item:everycomp:c/create_dd/rubber_window",
+    "item:everycomp:c/create_dd/rubber_window_pane",
+    "item:everycomp:c/create_dd/rose_window",
+    "item:everycomp:c/create_dd/rose_window_pane",
+    "item:everycomp:c/create_dd/smoked_window",
+    "item:everycomp:c/create_dd/smoked_window_pane",
+    "item:everycomp:c/create_dd/spirit_window",
+    "item:everycomp:c/create_dd/spirit_window_pane",
+
+    "item:everycomp:db/create_dd/rubber_beam",
+    "item:everycomp:db/create_dd/rose_beam",
+    "item:everycomp:db/create_dd/smoked_beam",
+    "item:everycomp:db/create_dd/spirit_beam",
+    "item:everycomp:db/create_dd/rubber_palisade",
+    "item:everycomp:db/create_dd/rose_palisade",
+    "item:everycomp:db/create_dd/smoked_palisade",
+    "item:everycomp:db/create_dd/spirit_palisade",
+    "item:everycomp:db/create_dd/rubber_support",
+    "item:everycomp:db/create_dd/rose_support",
+    "item:everycomp:db/create_dd/smoked_support",
+    "item:everycomp:db/create_dd/spirit_support",
+    "item:everycomp:db/create_dd/rubber_seat",
+    "item:everycomp:db/create_dd/rose_seat",
+    "item:everycomp:db/create_dd/smoked_seat",
+    "item:everycomp:db/create_dd/spirit_seat",
+
+    "item:everycomp:hnhome/create_dd/spirit_parquet",
+    "item:everycomp:hnhome/create_dd/smoked_parquet",
+    "item:everycomp:hnhome/create_dd/rose_parquet",
+    "item:everycomp:hnhome/create_dd/rubber_parquet",
+    "item:everycomp:hnhome/create_dd/spirit_trim",
+    "item:everycomp:hnhome/create_dd/smoked_trim",
+    "item:everycomp:hnhome/create_dd/rose_trim",
+    "item:everycomp:hnhome/create_dd/rubber_trim",
+    "item:everycomp:hnhome/create_dd/spirit_vertical_trim",
+    "item:everycomp:hnhome/create_dd/smoked_vertical_trim",
+    "item:everycomp:hnhome/create_dd/rose_vertical_trim",
+    "item:everycomp:hnhome/create_dd/rubber_vertical_trim",
+    "item:everycomp:hnhome/create_dd/spirit_lattice",
+    "item:everycomp:hnhome/create_dd/smoked_lattice",
+    "item:everycomp:hnhome/create_dd/rose_lattice",
+    "item:everycomp:hnhome/create_dd/rubber_lattice",
+    "item:everycomp:hnhome/create_dd/spirit_sanded_wood",
+    "item:everycomp:hnhome/create_dd/smoked_sanded_wood",
+    "item:everycomp:hnhome/create_dd/rose_sanded_wood",
+    "item:everycomp:hnhome/create_dd/rubber_sanded_wood"
+  ]
+}

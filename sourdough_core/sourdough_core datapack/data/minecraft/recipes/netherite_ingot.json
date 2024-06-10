@@ -9,18 +9,18 @@
     },
     {
       "fluid": "molten_metals:molten_copper",
-      "amount": 8100
+      "amount": 9000
     },
     {
       "fluid": "molten_metals:molten_bismuth",
-      "amount": 16200
+      "amount": 18000
     }
   ],
   "results": [
     {
       "fluid": "molten_metals:molten_netherite",
-      "amount": 8100
+      "amount": 9000
     }
   ],
-  "heatRequirement": "heated"
+  "heatRequirement": "superheated"
 }

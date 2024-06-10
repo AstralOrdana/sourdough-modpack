@@ -1,0 +1,16 @@
+{
+    "added": [
+      {
+        "stack": "item:railways:jukeboxcart",
+        "after": "item:supplementaries:dispenser_minecart"
+      },
+      {
+        "stack": "item:railways:benchcart",
+        "after": "item:supplementaries:dispenser_minecart"
+      }
+    ],
+    "removed": [
+      "item:railways:benchcart",
+      "item:railways:jukeboxcart"
+    ]
+  }

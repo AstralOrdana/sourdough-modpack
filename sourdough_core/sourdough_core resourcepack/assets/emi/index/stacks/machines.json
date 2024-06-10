@@ -1,0 +1,219 @@
+{
+    "added": [
+      {
+        "stack": "item:sliceanddice:slicer",
+        "after": "item:create:mechanical_mixer"
+      },
+      {
+        "stack": "item:sliceanddice:sprinkler",
+        "after": "item:create_enchantment_industry:printer"
+      },
+      {
+        "stack": "item:create:sequenced_gearshift",
+        "after": "item:create:clutch"
+      },
+      {
+        "stack": "item:create_dd:spectral_ruby_lamp",
+        "after": "item:create:rose_quartz_lamp"
+      },
+      {
+        "stack": "item:create_dd:reverse_gearshift",
+        "after": "item:create:clutch"
+      },
+      {
+        "stack": "item:create_dd:bronze_saw",
+        "after": "item:create:mechanical_saw"
+      },
+      {
+        "stack": "item:create_dd:bronze_drill",
+        "after": "item:create:mechanical_drill"
+      },
+      {
+        "stack": "item:create_dd:industrial_fan",
+        "after": "item:create:encased_fan"
+      },
+      {
+        "stack": "item:create_dd:flywheel",
+        "after": "item:create:mechanical_crafter"
+      },
+      {
+        "stack": "item:create_dd:furnace_engine",
+        "after": "item:create:mechanical_crafter"
+      },
+      {
+        "stack": "item:create_dd:hydraulic_press",
+        "after": "item:create:mechanical_press"
+      },
+      {
+        "stack": "item:create_dd:cog_crank",
+        "after": "item:create:hand_crank"
+      },
+      {
+        "stack": "item:createaddition:rolling_mill",
+        "after": "item:create:crushing_wheel"
+      },
+      {
+        "stack": "item:createaddition:electric_motor",
+        "after": "item:create:rotation_speed_controller"
+      },
+      {
+        "stack": "item:createutilities:void_motor",
+        "after": "item:create:rotation_speed_controller"
+      },
+      {
+        "stack": "item:create_dd:accelerator_motor",
+        "after": "item:create:rotation_speed_controller"
+      },
+      {
+        "stack": "item:create_dd:kinetic_motor",
+        "after": "item:create:rotation_speed_controller"
+      },
+      {
+        "stack": "item:createutilities:void_tank",
+        "after": "item:create:fluid_tank"
+      },
+      {
+        "stack": "item:createutilities:gearcube",
+        "after": "item:create:vertical_gearbox"
+      },
+      {
+        "stack": "item:createutilities:lshaped_gearbox",
+        "after": "item:create:vertical_gearbox"
+      },
+      {
+        "stack": "item:create_dd:integrated_circuit",
+        "after": "item:create:electron_tube"
+      },
+      {
+        "stack": "item:createutilities:graviton_tube",
+        "after": "item:create:electron_tube"
+      },
+      
+      {
+        "stack": "item:create_dd:infernal_mechanism",
+        "after": "item:create:precision_mechanism"
+      },
+      {
+        "stack": "item:create_dd:integrated_mechanism",
+        "after": "item:create:precision_mechanism"
+      },
+      {
+        "stack": "item:create_dd:sealed_mechanism",
+        "after": "item:create:precision_mechanism"
+      },
+      {
+        "stack": "item:create_dd:calculation_mechanism",
+        "after": "item:create:precision_mechanism"
+      },
+      {
+        "stack": "item:create_dd:inductive_mechanism",
+        "after": "item:create:precision_mechanism"
+      },
+
+      {
+        "stack": "item:create_dd:experience_mass",
+        "after": "item:create:andesite_alloy"
+      },
+      {
+        "stack": "item:create_dd:experience_ingot",
+        "after": "item:create:andesite_alloy"
+      },
+      {
+        "stack": "item:create:experience_nugget",
+        "after": "item:create:andesite_alloy"
+      },
+      {
+        "stack": "item:create_dd:frozen_nugget",
+        "after": "item:create:andesite_alloy"
+      },
+
+      {
+        "stack": "item:create_dd:overcharge_alloy",
+        "after": "item:create:andesite_alloy"
+      },
+      {
+        "stack": "item:create_dd:blaze_gold",
+        "after": "item:create:andesite_alloy"
+      },
+      {
+        "stack": "item:create_dd:stargaze_singularity",
+        "after": "item:create:andesite_alloy"
+      },
+      {
+        "stack": "item:create_dd:fallen_stargaze_singularity",
+        "after": "item:create:andesite_alloy"
+      },
+      {
+        "stack": "item:create_dd:shadow_steel",
+        "after": "item:create:andesite_alloy"
+      },
+      {
+        "stack": "item:create_dd:refined_radiance",
+        "after": "item:create:andesite_alloy"
+      },
+      {
+        "stack": "item:create_dd:chromatic_compound",
+        "after": "item:create:andesite_alloy"
+      },
+      {
+        "stack": "item:create_dd:compound_base",
+        "after": "item:create:andesite_alloy"
+      },
+      {
+        "stack": "item:create_dd:ember_alloy",
+        "after": "item:create:andesite_alloy"
+      },
+      {
+        "stack": "item:create_dd:lapis_alloy",
+        "after": "item:create:andesite_alloy"
+      }
+
+
+    ],
+    "removed": [
+      "item:sliceanddice:slicer",
+      "item:sliceanddice:sprinkler",
+      "item:create:sequenced_gearshift",
+      "item:create_dd:spectral_ruby_lamp",
+      "item:create_dd:reversed_gearshift",
+      "item:create_dd:bronze_saw",
+      "item:create_dd:bronze_drill",
+      "item:create_dd:industrial_fan",
+      "item:create_dd:flywheel",
+      "item:create_dd:furnace_engine",
+      "item:create_dd:hydraulic_press",
+      "item:create_dd:cog_crank",
+      "item:createaddition:rolling_mill",
+      "item:createutilities:void_motor",
+      "item:create_dd:kinetic_motor",
+      "item:create_dd:accelerator_motor",
+      "item:createaddition:electric_motor",
+      "item:createutilities:void_tank",
+      "item:createutilities:lshaped_gearbox",
+      "item:createutilities:gearcube",
+      "item:createutilities:graviton_tube",
+      "item:create_dd:integrated_circuit",
+      "item:create_dd:infernal_mechanism",
+      "item:create_dd:integrated_mechanism",
+      "item:create_dd:sealed_mechanism",
+      "item:create_dd:calculation_mechanism",
+      "item:create_dd:inductive_mechanism",
+
+      "item:create_dd:lapis_alloy",
+      "item:create_dd:ember_alloy",
+      "item:create_dd:compound_base",
+      "item:create_dd:chromatic_compound",
+      "item:create_dd:shadow_steel",
+      "item:create_dd:refined_radiance",
+      "item:create_dd:fallen_stargaze_singularity",
+      "item:create_dd:stargaze_singularity",
+      "item:create_dd:blaze_gold",
+      "item:create_dd:overcharge_alloy",
+
+      "item:create_dd:frozen_nugget",
+      "item:create:experience_nugget",
+      "item:create_dd:experience_ingot",
+      "item:create_dd:experience_mass"
+      
+    ]
+  }

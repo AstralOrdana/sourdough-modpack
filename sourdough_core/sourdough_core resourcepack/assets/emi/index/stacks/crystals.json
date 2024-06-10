@@ -1,0 +1,76 @@
+{
+    "added": [
+      {
+        "stack": "item:create_dd:small_spectral_ruby_tiles",
+        "after": "item:minecraft:amethyst_shard"
+      },
+      {
+        "stack": "item:create_dd:spectral_ruby_tiles",
+        "after": "item:minecraft:amethyst_shard"
+      },
+      {
+        "stack": "item:create_dd:polished_spectral_ruby",
+        "after": "item:minecraft:amethyst_shard"
+      },
+      {
+        "stack": "item:create_dd:spectral_ruby",
+        "after": "item:minecraft:amethyst_shard"
+      },
+      {
+        "stack": "item:create_dd:spectral_ruby_block",
+        "after": "item:minecraft:amethyst_shard"
+      },
+      {
+        "stack": "item:create:small_rose_quartz_tiles",
+        "after": "item:minecraft:amethyst_shard"
+      },
+      {
+        "stack": "item:create:rose_quartz_tiles",
+        "after": "item:minecraft:amethyst_shard"
+      },
+      {
+        "stack": "item:create:polished_rose_quartz",
+        "after": "item:minecraft:amethyst_shard"
+      },
+      {
+        "stack": "item:create:rose_quartz",
+        "after": "item:minecraft:amethyst_shard"
+      },
+      {
+        "stack": "item:create:rose_quartz_block",
+        "after": "item:minecraft:amethyst_shard"
+      },
+      {
+        "stack": "item:createutilities:small_amethyst_tiles",
+        "after": "item:minecraft:amethyst_shard"
+      },
+      {
+        "stack": "item:createutilities:amethyst_tiles",
+        "after": "item:minecraft:amethyst_shard"
+      },
+      {
+        "stack": "item:createutilities:polished_amethyst",
+        "after": "item:minecraft:amethyst_shard"
+      },
+      {
+        "stack": "item:minecraft:amethyst_block",
+        "after": "item:minecraft:quartz"
+      }
+    ],
+    "removed": [
+      "item:minecraft:amethyst_block",
+      "item:createutilities:polished_amethyst",
+      "item:createutilities:amethyst_tiles",
+      "item:createutilities:small_amethyst_tiles",
+      "item:create:rose_quartz_block",
+      "item:create:rose_quartz",
+      "item:create:polished_rose_quartz",
+      "item:create:rose_quartz_tiles",
+      "item:create:small_rose_quartz_tiles",
+      "item:create_dd:spectral_ruby_block",
+      "item:create_dd:spectral_ruby",
+      "item:create_dd:polished_spectral_ruby",
+      "item:create_dd:spectral_ruby_tiles",
+      "item:create_dd:small_spectral_ruby_tiles"
+    ]
+  }

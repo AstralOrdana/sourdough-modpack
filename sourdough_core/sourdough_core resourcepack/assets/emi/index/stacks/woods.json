@@ -1,0 +1,276 @@
+{
+    "added": [
+      {
+        "stack": "item:create_dd:rubber_sapling",
+        "after": "item:minecraft:cherry_sapling"
+      },
+      {
+        "stack": "item:create_dd:rubber_leaves",
+        "after": "item:minecraft:cherry_leaves"
+      },
+      {
+        "stack": "item:create_dd:spirit_button",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:spirit_pressure_plate",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:spirit_trapdoor",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:spirit_door",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:spirit_fence_gate",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:spirit_fence",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:spirit_slab",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:spirit_stairs",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:spirit_planks",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:stripped_spirit_wood",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:stripped_spirit_log",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:spirit_wood",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:spirit_log",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:smoked_button",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:smoked_pressure_plate",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:smoked_trapdoor",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:smoked_door",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:smoked_fence_gate",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:smoked_fence",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:smoked_slab",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:smoked_stairs",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:smoked_planks",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:stripped_smoked_wood",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:stripped_smoked_log",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:smoked_wood",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:smoked_log",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:rose_button",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:rose_pressure_plate",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:rose_trapdoor",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:rose_door",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:rose_fence_gate",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:rose_fence",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:rose_slab",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:rose_stairs",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:rose_planks",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:stripped_rose_wood",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:stripped_rose_log",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:rose_wood",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:rose_log",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:rubber_button",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:rubber_pressure_plate",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:rubber_trapdoor",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:rubber_door",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:rubber_fence_gate",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:rubber_fence",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:rubber_slab",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:rubber_stairs",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:rubber_planks",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:stripped_rubber_wood",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:stripped_rubber_log",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:rubber_wood",
+        "after": "item:minecraft:cherry_button"
+      },
+      {
+        "stack": "item:create_dd:rubber_log",
+        "after": "item:minecraft:cherry_button"
+      }
+    ],
+    "removed": [
+      "item:create_dd:rubber_sapling",
+      "item:create_dd:rubber_leaves",
+      "item:create_dd:stripped_rubber_log",
+      "item:create_dd:stripped_rubber_wood",
+      "item:create_dd:rubber_log",
+      "item:create_dd:rubber_wood",
+      "item:create_dd:rubber_planks",
+      "item:create_dd:rubber_stairs",
+      "item:create_dd:rubber_slab",
+      "item:create_dd:rubber_fence",
+      "item:create_dd:rubber_fence_gate",
+      "item:create_dd:rubber_door",
+      "item:create_dd:rubber_trapdoor",
+      "item:create_dd:rubber_pressure_plate",
+      "item:create_dd:rubber_button",
+      "item:create_dd:stripped_rose_log",
+      "item:create_dd:stripped_rose_wood",
+      "item:create_dd:rose_log",
+      "item:create_dd:rose_wood",
+      "item:create_dd:rose_planks",
+      "item:create_dd:rose_stairs",
+      "item:create_dd:rose_slab",
+      "item:create_dd:rose_fence",
+      "item:create_dd:rose_fence_gate",
+      "item:create_dd:rose_door",
+      "item:create_dd:rose_trapdoor",
+      "item:create_dd:rose_pressure_plate",
+      "item:create_dd:rose_button",
+      "item:create_dd:stripped_smoked_log",
+      "item:create_dd:stripped_smoked_wood",
+      "item:create_dd:smoked_log",
+      "item:create_dd:smoked_wood",
+      "item:create_dd:smoked_planks",
+      "item:create_dd:smoked_stairs",
+      "item:create_dd:smoked_slab",
+      "item:create_dd:smoked_fence",
+      "item:create_dd:smoked_fence_gate",
+      "item:create_dd:smoked_door",
+      "item:create_dd:smoked_trapdoor",
+      "item:create_dd:smoked_pressure_plate",
+      "item:create_dd:smoked_button",
+      "item:create_dd:stripped_spirit_log",
+      "item:create_dd:stripped_spirit_wood",
+      "item:create_dd:spirit_log",
+      "item:create_dd:spirit_wood",
+      "item:create_dd:spirit_planks",
+      "item:create_dd:spirit_stairs",
+      "item:create_dd:spirit_slab",
+      "item:create_dd:spirit_fence",
+      "item:create_dd:spirit_fence_gate",
+      "item:create_dd:spirit_door",
+      "item:create_dd:spirit_trapdoor",
+      "item:create_dd:spirit_pressure_plate",
+      "item:create_dd:spirit_button"
+    ]
+  }

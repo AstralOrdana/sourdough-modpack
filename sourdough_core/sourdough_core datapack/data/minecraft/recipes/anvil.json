@@ -1,0 +1,20 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "BBB",
+        " # ",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "createdeco:industrial_iron_ingot"
+        },
+        "B": {
+            "item": "create_dd:steel_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:anvil"
+    }
+}

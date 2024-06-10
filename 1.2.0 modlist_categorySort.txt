@@ -1,0 +1,311 @@
+# Meta
+## UI utils
+- Map Atlases
+- On Soul Fire
+- Why Am I on Fire?
+- Highlighter
+- Pick Up Notifier
+- Emi
+-- Emi AE2 Crafting Integration
+-- Extra Mod Integrations
+- Jade
+- Modmenu
+- YOSBR
+- AMECS
+- Searchables
+- Controlling For Fabric
+- AppleSkin
+- Colorful Hearts
+- Armor Chroma
+- Better Mount Hud
+- Horse Stats Vanilla
+- HorseBuff
+- Better Trim Tooltips
+- Better F3
+- Compact Chat
+- More Chat History
+- Mouse Tweaks
+- Crafting Tweaks
+- Polymorph
+- Visual Workbench
+- Ding
+- Dynamic Crosshair
+- FuelInfo
+- What's That Slot?
+- Hidden Recipe Book
+- YUNG's Menu Tweaks
+- Model Gap Fix
+- Pack/Rule Menus
+- Reimagined Menus
+- Status Effect Bars
+- Equipment Compare
+- ToolStats
+- ToolTip Fix
+- Traveler's Titles
+
+
+## backend stuff / libs
+- Alternate Current
+- Noisium
+- Lithium
+- LazyDFU
+- CIT Respawn
+- Continuity
+- Entity Model Features
+- Entity Texture Features
+- Disable Custom Worlds Advice
+- Dynamic FPS
+- Enchantment Disabler
+- EntityCulling-Fabric
+- FastQuit
+- ImmediatelyFast
+- Seamless Loading Screen
+- Continue
+- FerriteCore
+- JsonPatcher
+- KubeSJ
+- Paxi
+- Lychee Tweaker
+- Nbt Recipes
+- Language Reload
+- Pehuki
+- Starter Kit
+- spark
+- Architectuary 
+- Bad Packets
+- Balm
+- Bookshelf
+- Botarium
+- Cardinal Components
+- Collective
+- CompleteConfig
+- CoroUtil
+- Fabric API
+- Fabric Language Kotlin
+- Iceberg
+- Kiwi Library
+- Mineblock's Repeated Utilities
+- Moonlight
+- owo lib
+- Puzzles Lib
+- Resourcefulconfig
+- Rhino
+- SuperMartijn642's Config Lib
+- SuperMartijn642's Core Lib
+- YUNG's API
+- Patchouli
+
+
+## Player to player interaction
+- Heartstone
+- Hand Over Your Items
+- Show me What You Got
+- What Are They Up To
+- Leashable Players
+- Pettable
+- TakeASeat
+- Heracles
+- Argonauts
+
+
+## Aesthetic tweaks
+- Bedrock Waters
+- Better Block Sounds
+- Sounds
+- Jump Sounds
+- Planetarium
+- Better Clouds
+- Head In The Clouds
+- FogLooksGoodNow
+- Explosive Enhancement
+- Namepain
+- Ears
+- Dynamic Trim
+- Eating Animation
+- Luna Slimes
+- Particle Tweaks
+- Sparkle
+- Random Mob Sizes
+- Snow Under Trees
+- Snow! Real Magic!
+- Snowy Sniffer Mod
+- Highlight
+- Seamless
+
+
+
+
+# Gameplay tweaks
+## Tech mods
+- Ad Astra
+- Botania
+- Create
+-- Milk+
+-- Create: Chunkloading
+-- Create: Crafts & Additions
+-- Create: Deco
+-- Create: Slice & Dice
+-- Create: Utilities
+-- Create: Bells & Whistles
+-- Create: Molten Metals
+-- Create: New Age
+-- Create: Sandpaper Overhaul
+-- Create Steam 'n' Rails
+-- Create: Structures
+-- Create: Expanding Technologies
+-- Extended Cogwheels
+- Redstone Pen
+
+
+## Gameplay utils
+- Fabrication
+- Accurate Block Placement
+- Artifacts
+- Trinkets
+-- Vanity Slots
+- Beacon Overhaul
+- Brazier
+- Beacons for All
+- Conduits Prevent Drowned
+- Arrow Entity Loot Drop
+- Arror Popper
+- Beef & Blade
+- Better Climbing
+- Block Runner
+- Bucket Em
+- Carry On
+- Comforts
+- Companion
+- Couplings
+- Dynamic Name Tags
+- Let's Jeb
+- Extract Poison
+- FallingTree
+- Leaves Us In Peace
+- FlameArrows
+- Fluidlogged
+- Logical Dye Mixing
+- Diamond In The Rough
+- Shards
+- Softer Hay Bales
+- Bunk Beds
+- Crawl
+- Jump Over Fences
+- Glass Breaker
+- Gravel Miner
+- Restart Detector
+- Sensible Sleepiness
+- Reimagined Trims
+- Recipe Reshaper
+- Stackables
+- StairDoors Extended
+
+
+## Exploration mods
+- Archaeology Plus
+- The Bumblezone
+- Cave Overhaul
+- Haunted Harvest
+- You've Goat to be kidding me
+- Immersive Weathering
+- Wormhole (Portals)
+- Spawn
+- Spelunkery
+- Amplified Nether
+- Grophilic
+- Chalk
+-- Chalk: Colorful-Addon
+- Moss Ruins
+- Moyai
+- Nature's Compass
+- Netherite Compass
+- Randomium
+- Tree Hollows
+- Weaker Spiderwebs
+- YUNG's Better Desert Temples
+- YUNG's Better End Island
+- YUNG's Better Jungle Temples
+- YUNG's Better Ocean Monuments
+- YUNG's Better Witch Huts
+- Lootr
+
+
+## Farming
+- Farmers Delight
+-- Delightful Creators
+-- Farmers Respite
+-- Respite Creators
+-- Brewin And Chewin
+- Crops Love Rain
+- Experienced Crops
+- Unloaded Activity
+- Economical Villager Trading
+- Herds Panic
+- Pigs Have Litters
+- Smarter Farmers
+
+
+## Inventory management
+- Inventorio
+- Inventory Sorter
+- Inventory Tabs
+- Packed Inventory
+- Bundle Scroll
+
+
+## Decoration Mods
+- Dramatic Doors
+- Decorative Blocks
+- Etcetera
+-- Thigh highs etc
+- Supplementaries
+-- Supplementaries Squared
+- Better Lily Pads
+- Carpeted
+- Connectable Chains
+- Diagonal Fences
+- Twigs
+- Blahaj
+- Chimes
+- Enchant the Rainbow
+- Items Displayed
+- KleeSlabs
+- Stackable Flowers
+- Sooty Chimneys for Fabric
+- Spyglass Astronomy
+
+
+## Storage
+- AE2
+-- AE2 QOL Recipes
+-- Applied Botanistics
+- Extended Drawers
+- ClickThrough
+- labels
+
+
+## Combat tweaks
+- Armorful
+- Combatify
+- BE Style Wither
+- FlameSweeping
+- Grabby Mobs
+- SwingThrough
+- Nyf's Spiders
+- Minecraft Isn't For Babies
+- Wither Skeleton Archers in Fortresses
+- TimeStacker
+- Crossbow Auto Release
+- HotShot
+
+
+## Enchanting mods
+- Enchantery
+- BetterThanMending
+- Easy Magic
+- linearlevels
+- Easy Anvils
+- Ruined Equipment
+- Wandering Collector
+- Vein Mining
+- idwtialsimmoedm

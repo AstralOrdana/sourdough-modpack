@@ -1,0 +1,9 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"item": "create:andesite_alloy"
+	},
+	"result": {
+		"item": "createdeco:andesite_sheet"
+	}
+}

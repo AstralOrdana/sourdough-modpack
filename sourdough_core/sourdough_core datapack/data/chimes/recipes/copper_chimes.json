@@ -1,0 +1,23 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        " _ ",
+        "SSS",
+        "///"
+    ],
+    "key": {
+        "_": {
+            "tag": "minecraft:wooden_slabs"
+        },
+        "S": {
+            "item": "minecraft:chain"
+        },
+        "/": {
+            "item": "createaddition:copper_rod"
+        }
+    },
+    "result": {
+        "item": "chimes:copper_chimes"
+    }
+}

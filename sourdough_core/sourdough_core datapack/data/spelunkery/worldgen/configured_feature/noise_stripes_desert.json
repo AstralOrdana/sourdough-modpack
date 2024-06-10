@@ -38,7 +38,7 @@
             {
               "weight": 1,
               "data": {
-                "Name": "archeologyplus:crumbling_sandstone"
+                "Name": "minecraft:sandstone"
               }
             }
           ]
@@ -46,7 +46,7 @@
         "secondary_stone_type": {
           "type": "minecraft:simple_state_provider",
           "state": {
-            "Name": "archeologyplus:crumbling_sandstone"
+            "Name": "minecraft:sandstone"
           }
         },
         "stone_pattern": {
@@ -88,7 +88,7 @@
         "primary_stone_type": {
           "type": "minecraft:simple_state_provider",
           "state": {
-            "Name": "twigs:rhyolite"
+            "Name": "create_dd:weathered_limestone"
           }
         },
         "secondary_stone_type": {

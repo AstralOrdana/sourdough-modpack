@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "tag": "minecraft:logs_that_burn"
+    },
+    "result": "create_dd:smoked_log",
+    "experience": 0,
+    "cookingtime": 200
+  }
+  

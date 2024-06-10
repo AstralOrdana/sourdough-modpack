@@ -1,0 +1,23 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        " _ ",
+        "SSS",
+        "///"
+    ],
+    "key": {
+        "_": {
+            "item": "create:iron_sheet"
+        },
+        "S": {
+            "item": "minecraft:chain"
+        },
+        "/": {
+            "item": "minecraft:amethyst_shard"
+        }
+    },
+    "result": {
+        "item": "chimes:amethyst_chimes"
+    }
+}

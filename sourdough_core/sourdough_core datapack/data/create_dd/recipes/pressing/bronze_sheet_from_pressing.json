@@ -1,0 +1,14 @@
+{
+	"type": "create:pressing",
+	"ingredients": [
+	  {
+		"item": "create_dd:bronze_ingot"
+	  }
+	],
+	"results": [
+	  {
+		"item": "create_dd:bronze_sheet",
+		"count": 4
+	  }
+	]
+  }

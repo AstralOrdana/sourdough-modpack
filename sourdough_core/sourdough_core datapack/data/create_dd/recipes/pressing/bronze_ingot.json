@@ -1,0 +1,9 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"item": "create_dd:bronze_ingot"
+	},
+	"result": {
+		"item": "create_dd:bronze_sheet"
+	}
+}

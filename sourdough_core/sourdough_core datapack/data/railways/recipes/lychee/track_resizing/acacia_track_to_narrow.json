@@ -1,0 +1,37 @@
+{
+    "type": "lychee:block_interacting",
+    "block_in": {
+      "blocks": [
+          "railways:track_acacia"
+      ]
+  },
+  "contextual": [
+    {
+      "type": "not",
+      "contextual": {
+        "type": "is_sneaking"
+      }
+    }
+  ],
+    "post": [
+        {
+            "type": "execute",
+            "command": "playsound create:wrench_remove_compounded_1 block @a ~ ~ ~"
+        },
+        {
+            "type": "prevent_default"
+        },
+        {
+          "type": "place",
+          "block": {
+            "blocks": [
+              "railways:track_acacia_narrow"
+            ]
+          }
+        }
+    ],
+    "item_in": {
+      "item": "create:wrench"
+    }
+  }
+  

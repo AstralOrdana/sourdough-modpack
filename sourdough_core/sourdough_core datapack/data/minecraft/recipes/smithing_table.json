@@ -1,0 +1,20 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "##",
+        "BB",
+        "BB"
+    ],
+    "key": {
+        "#": {
+            "item": "createdeco:industrial_iron_ingot"
+        },
+        "B": {
+            "tag": "minecraft:planks"
+        }
+    },
+    "result": {
+        "item": "minecraft:smithing_table"
+    }
+}

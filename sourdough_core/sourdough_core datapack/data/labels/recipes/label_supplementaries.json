@@ -1,0 +1,18 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:paper"
+        },
+        {
+            "item": "minecraft:slime_ball"
+        },
+        {
+            "tag": "c:dyes"
+        }
+    ],
+    "result": {
+        "item": "labels:label",
+        "count": 16
+    }
+}

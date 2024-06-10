@@ -1,0 +1,136 @@
+{
+    "added": [
+      {
+        "stack": "item:immersive_weathering:red_sand_layer_block",
+        "after": "item:minecraft:red_sand"
+      },
+      {
+        "stack": "item:immersive_weathering:dark_prismarine_wall",
+        "after": "item:minecraft:dark_prismarine_slab"
+      },
+      {
+        "stack": "item:exposure:lightroom",
+        "after": "item:minecraft:loom"
+      },
+      {
+        "stack": "item:horseshoes:diamond_horseshoes",
+        "after": "item:minecraft:diamond_horse_armor"
+      },
+      {
+        "stack": "item:horseshoes:gold_horseshoes",
+        "after": "item:minecraft:diamond_horse_armor"
+      },
+      {
+        "stack": "item:horseshoes:iron_horseshoes",
+        "after": "item:minecraft:diamond_horse_armor"
+      },
+      {
+        "stack": "item:vanityslots:familiar_sneakers",
+        "after": "item:etcetera:trader_robe"
+      },
+      {
+        "stack": "item:vanityslots:familiar_pants",
+        "after": "item:etcetera:trader_robe"
+      },
+      {
+        "stack": "item:vanityslots:familiar_shirt",
+        "after": "item:etcetera:trader_robe"
+      },
+      {
+        "stack": "item:vanityslots:familiar_wig",
+        "after": "item:etcetera:trader_robe"
+      },
+      {
+        "stack": "item:thigh_highs_etc:trader_thigh_highs",
+        "after": "item:etcetera:trader_robe"
+      },
+      {
+        "stack": "item:createaddition:diamond_grit_sandpaper",
+        "after": "item:create:sand_paper"
+      },
+      {
+        "stack": "item:create_enchantment_industry:hyper_experience_bottle",
+        "after": "item:minecraft:experience_bottle"
+      },
+      {
+        "stack": "item:createutilities:void_steel_scaffolding",
+        "after": "item:create_dd:netherite_scaffolding"
+      },
+      {
+        "stack": "item:createutilities:void_steel_bars",
+        "after": "item:create:copper_bars"
+      },
+      {
+        "stack": "item:createutilities:void_steel_ladder",
+        "after": "item:create:copper_ladder"
+      },
+      {
+        "stack": "item:createdeco:zinc_ladder",
+        "after": "item:create:copper_ladder"
+      },
+      {
+        "stack": "item:createdeco:industrial_iron_ladder",
+        "after": "item:create:copper_ladder"
+      },
+      {
+        "stack": "item:createdeco:iron_ladder",
+        "after": "item:create:copper_ladder"
+      },
+      {
+        "stack": "item:createutilities:void_casing",
+        "after": "item:create_dd:netherite_casing"
+      },
+      {
+        "stack": "item:createutilities:void_steel_block",
+        "after": "item:minecraft:diamond_block"
+      },
+      {
+        "stack": "item:supplementaries:redstone_illuminator",
+        "after": "item:etcetera:squid_lamp"
+      },
+      {
+        "stack": "item:create_dd:blueprint_carpet",
+        "after": "item:create:crafting_blueprint"
+      },
+      {
+        "stack": "item:create_dd:blueprint_block",
+        "after": "item:create:crafting_blueprint"
+      },
+      {
+        "stack": "item:create:copycat_step",
+        "after": "item:brewinandchewin:fermentation_controller"
+      },
+      {
+        "stack": "item:create:copycat_panel",
+        "after": "item:brewinandchewin:fermentation_controller"
+      }
+    ],
+    "removed": [
+      "item:immersive_weathering:red_sand_layer_block",
+      "item:immersive_weathering:dark_prismarine_wall",
+      "item:exposure:lightroom",
+      "item:horseshoes:diamond_horseshoes",
+      "item:horseshoes:gold_horseshoes",
+      "item:horseshoes:iron_horseshoes",
+      "item:vanityslots:familiar_wig",
+      "item:vanityslots:familiar_shirt",
+      "item:vanityslots:familiar_pants",
+      "item:vanityslots:familiar_sneakers",
+      "item:createaddition:diamond_grit_sandpaper",
+      "item:supplementaries:redstone_illuminator",
+      "item:create_enchantment_industry:hyper_experience_bottle",
+      "item:createutilities:void_steel_scaffolding",
+      "item:createutilities:void_steel_bars",
+      "item:createutilities:void_steel_ladder",
+      "item:createutilities:void_casing",
+      "item:createdeco:iron_ladder",
+      "item:createdeco:industrial_iron_ladder",
+      "item:createdeco:zinc_ladder",
+      "item:createutilities:void_steel_block",
+      "item:create:copycat_panel",
+      "item:create:copycat_step",
+      "item:create_dd:blueprint_block",
+      "item:create_dd:blueprint_carpet",
+      "item:thigh_highs_etc:trader_thigh_highs"
+    ]
+  }

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "RRR",
+      "# #",
+      "###"
+    ],
+    "key": {
+      "R": {
+        "item": "scout:satchel_strap"
+        },
+        "#": {
+          "item": "scout:tanned_leather"
+        }
+      },
+      "result": {
+        "item": "scout:upgraded_satchel"
+      }
+    }

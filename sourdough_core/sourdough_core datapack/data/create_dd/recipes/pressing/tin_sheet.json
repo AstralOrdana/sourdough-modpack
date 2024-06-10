@@ -1,0 +1,9 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"item": "create_dd:tin_ingot"
+	},
+	"result": {
+		"item": "create_dd:tin_sheet"
+	}
+}

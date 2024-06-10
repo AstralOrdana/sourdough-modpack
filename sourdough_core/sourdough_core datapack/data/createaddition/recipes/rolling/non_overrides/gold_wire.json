@@ -1,0 +1,10 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"item": "crcreateadditioneate:gold_rod"
+	},
+	"result": {
+		"item": "createaddition:gold_wire",
+		"count": 2
+	}
+}

@@ -101,7 +101,7 @@
         "secondary_stone_type": {
           "type": "minecraft:simple_state_provider",
           "state": {
-            "Name": "twigs:schist"
+            "Name": "create_dd:gabbro"
           }
         },
         "stone_pattern": {
@@ -123,7 +123,7 @@
         "secondary_stone_type": {
           "type": "minecraft:simple_state_provider",
           "state": {
-            "Name": "twigs:rhyolite"
+            "Name": "create_dd:weathered_limestone"
           }
         },
         "stone_pattern": {
@@ -221,7 +221,7 @@
             {
               "weight": 1,
               "data": {
-                "Name": "twigs:rhyolite"
+                "Name": "create_dd:potassic"
               }
             }
           ]
@@ -229,7 +229,7 @@
         "secondary_stone_type": {
           "type": "minecraft:simple_state_provider",
           "state": {
-            "Name": "twigs:rhyolite"
+            "Name": "create_dd:potassic"
           }
         },
         "stone_pattern": {

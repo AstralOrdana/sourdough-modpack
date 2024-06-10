@@ -11,7 +11,7 @@
             "item": "create:shaft"
         },
         "W": {
-            "tag": "minecraft:wooden_slabs"
+            "item": "createdeco:andesite_sheet"
         }
     },
     "result": {

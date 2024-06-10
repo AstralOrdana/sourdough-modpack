@@ -1,0 +1,26 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#_#",
+        "BUB",
+        "BBB"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:brick"
+        },
+        "_": {
+            "item": "minecraft:wooden_shovel"
+        },
+        "B": {
+            "item": "createdeco:industrial_iron_ingot"
+        },
+        "U": {
+            "item": "minecraft:water_bucket"
+        }
+    },
+    "result": {
+        "item": "farmersdelight:cooking_pot"
+    }
+}

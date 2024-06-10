@@ -1,0 +1,9 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"item": "createdeco:industrial_iron_ingot"
+	},
+	"result": {
+		"item": "createdeco:industrial_iron_sheet"
+	}
+}

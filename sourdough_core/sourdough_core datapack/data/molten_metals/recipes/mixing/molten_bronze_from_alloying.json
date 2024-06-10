@@ -1,0 +1,24 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "tag": "molten_metals:meltable_copper"
+      },
+      {
+        "tag": "molten_metals:meltable_copper"
+      },
+      {
+        "tag": "molten_metals:meltable_tin"
+      },
+      {
+        "item": "create:zinc_ingot"
+      }
+    ],
+    "results": [
+      {
+        "fluid": "molten_metals:molten_bronze",
+        "amount": 18000
+      }
+    ],
+    "heatRequirement": "superheated"
+  }

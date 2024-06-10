@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "create:copper_diving_boots"
+    },
+    {
+      "fluid": "molten_metals:molten_netherite",
+      "amount": 9000
+    }
+  ],
+  "results": [
+    {
+        "item": "create:netherite_diving_boots"
+    }
+  ]
+}

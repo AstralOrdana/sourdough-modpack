@@ -1,0 +1,23 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        " _ ",
+        "SSS",
+        "///"
+    ],
+    "key": {
+        "_": {
+            "tag": "minecraft:wooden_slabs"
+        },
+        "S": {
+            "item": "minecraft:string"
+        },
+        "/": {
+            "item": "minecraft:bamboo"
+        }
+    },
+    "result": {
+        "item": "chimes:bamboo_chimes"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "create:filling",
+    "ingredients": [
+      {
+        "item": "tridents_n_stuff:diamond_spear"
+      },
+      {
+        "fluid": "molten_metals:molten_netherite",
+        "amount": 9000
+      }
+    ],
+    "results": [
+      {
+        "item": "tridents_n_stuff:netherite_spear"
+      }
+    ]
+  }

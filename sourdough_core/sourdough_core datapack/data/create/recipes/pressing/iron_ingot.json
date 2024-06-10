@@ -1,0 +1,9 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"item": "minecraft:iron_ingot"
+	},
+	"result": {
+		"item": "create:iron_sheet"
+	}
+}

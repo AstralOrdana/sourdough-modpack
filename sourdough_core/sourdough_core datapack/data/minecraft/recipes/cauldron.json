@@ -1,0 +1,17 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "# #",
+        "# #",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "createdeco:industrial_iron_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:cauldron"
+    }
+}

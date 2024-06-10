@@ -1,0 +1,33 @@
+{
+    "item.create.sand_paper": "Sandpaper",
+    "item.create.andesite_alloy": "Andesite Amalgam",
+    "item.createdeco.andesite_sheet": "Andesite Amalgam Sheet",
+
+    "block.create.andesite_alloy_block": "Block of Andesite Amalgam",
+    "block.create_dd.mossy_andesite_alloy_block": "Mossy Block of Andesite Amalgam",
+    "block.create_dd.andesite_alloy_polished_block": "Polished Andesite Amalgam",
+    "block.create_dd.andesite_alloy_polished_stairs": "Polished Andesite Amalgam Stairs",
+    "block.create_dd.andesite_alloy_polished_slab": "Polished Andesite Amalgam Slab",
+    "block.create_dd.andesite_alloy_tiled_block": "Tiled Andesite Amalgam",
+    "block.create_dd.andesite_alloy_tiled_stairs": "Tiled Andesite Amalgam Stairs",
+    "block.create_dd.andesite_alloy_tiled_slab": "Tiled Andesite Amalgam Slab",
+
+    "item.create_dd.condense_milk_bucket": "Condensed Milk Bucket",    
+    "fluid_type.create_dd.cream": "Condensed Milk",
+    "fluid_type.create_dd.flowing_cream": "Cream",
+    "fluid_type.create_dd.flowing_vanilla": "Vanilla Milk",
+    "fluid_type.create_dd.flowing_vanilla_milkshake": "Vanilla Milkshake",
+    "fluid_type.create_dd.flowing_strawberry": "Strawberry Milk",
+    "fluid_type.create_dd.flowing_strawberry_milkshake": "Strawberry Milkshake",
+    "fluid_type.create_dd.flowing_glowberry": "Glowberry Milk",
+    "fluid_type.create_dd.flowing_glowberry_milkshake": "Glowberry Milkshake",
+    "fluid_type.create_dd.flowing_caramel": "Caramel",
+    "fluid_type.create_dd.flowing_caramel_milkshake": "Caramel Milkshake",
+    "fluid_type.create_dd.flowing_hot_chocolate": "Hot Chocolate",
+    "fluid_type.create_dd.flowing_chromatic_waste": "Chromatic Waste",
+    "fluid_type.create_dd.flowing_sap": "Sap",
+    "fluid_type.create_dd.shimmer": "Shimmer",
+    
+    "item.minecraft.tipped_arrow.effect.blistered_vision": "Arrow of Blistered Vision",
+    "item.minecraft.tipped_arrow.effect.blistered_vision_long": "Arrow of Blistered Vision"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "farmersdelight:diamond_knife"
+    },
+    {
+      "fluid": "molten_metals:molten_netherite",
+      "amount": 9000
+    }
+  ],
+  "results": [
+    {
+        "item": "farmersdelight:netherite_knife"
+    }
+  ]
+}

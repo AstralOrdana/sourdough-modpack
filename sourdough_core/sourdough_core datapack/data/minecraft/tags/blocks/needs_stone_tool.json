@@ -1,0 +1,23 @@
+{
+    "replace": false,
+    "values": [
+      "create:zinc_ore",
+      "create:deepslate_zinc_ore",
+      "spelunkery:granite_zinc_ore",
+      "spelunkery:andesite_zinc_ore",
+      "spelunkery:diorite_zinc_ore",
+      "spelunkery:tuff_zinc_ore",
+      "create:zinc_block",
+      "create:raw_zinc_block",
+      "minecraft:redstone_ore",
+      "minecraft:deepslate_redstone_ore",
+      "spelunkery:granite_redstone_ore",
+      "spelunkery:andesite_redstone_ore",
+      "spelunkery:diorite_redstone_ore",
+      "spelunkery:tuff_redstone_ore",
+      "minecraft:redstone_block",
+      "spelunkery:cinnabar_block",
+      "spelunkery:rough_cinnabar_block"
+    ]
+  }
+  

@@ -1,0 +1,16 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "GGG",
+        "G G"
+    ],
+    "key": {
+        "G": {
+            "item": "minecraft:magenta_wool"
+        }
+    },
+    "result": {
+        "item": "railways:magenta_conductor_cap"
+    }
+}

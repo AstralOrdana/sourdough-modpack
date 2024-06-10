@@ -1,8 +1,0 @@
-{
-  "type": "forge:add_features",
-  "biomes": "#botania:marimorphosis_plains_bonus",
-  "features": [
-    "rock_and_stone:noise_plains"
-  ],
-  "step": "raw_generation"
-}

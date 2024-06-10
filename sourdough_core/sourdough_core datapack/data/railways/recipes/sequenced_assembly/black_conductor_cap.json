@@ -1,0 +1,16 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "GGG",
+        "G G"
+    ],
+    "key": {
+        "G": {
+            "item": "minecraft:black_wool"
+        }
+    },
+    "result": {
+        "item": "railways:black_conductor_cap"
+    }
+}

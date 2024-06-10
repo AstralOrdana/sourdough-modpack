@@ -1,0 +1,10 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"item": "create:golden_sheet"
+	},
+	"result": {
+		"item": "createaddition:gold_rod",
+		"count": 2
+	}
+}

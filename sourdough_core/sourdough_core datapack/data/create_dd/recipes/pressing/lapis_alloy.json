@@ -1,0 +1,9 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"item": "create_dd:lapis_alloy"
+	},
+	"result": {
+		"item": "create_dd:lapis_sheet"
+	}
+}

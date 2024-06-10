@@ -1,0 +1,62 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:metal_girder"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "item": "railways:track_monorail"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:metal_girder"
+        },
+        {
+          "item": "create:metal_bracket"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:metal_girder"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:metal_girder"
+        },
+        {
+          "item": "createdeco:industrial_iron_sheet"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:metal_girder"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "create:metal_girder"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:track_monorail"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "create:metal_girder"
+  }
+}

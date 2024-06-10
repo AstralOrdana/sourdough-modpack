@@ -1,0 +1,9 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"item": "create:zinc_ingot"
+	},
+	"result": {
+		"item": "createdeco:zinc_sheet"
+	}
+}

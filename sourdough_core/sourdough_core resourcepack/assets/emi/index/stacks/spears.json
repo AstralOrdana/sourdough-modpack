@@ -1,0 +1,78 @@
+{
+    "added": [
+      {
+        "stack": "item:farmersdelight:netherite_knife",
+        "after": "item:ae2:certus_quartz_wrench"
+      },
+      {
+        "stack": "item:farmersdelight:diamond_knife",
+        "after": "item:ae2:certus_quartz_wrench"
+      },
+      {
+        "stack": "item:farmersdelight:golden_knife",
+        "after": "item:ae2:certus_quartz_wrench"
+      },
+      {
+        "stack": "item:farmersdelight:iron_knife",
+        "after": "item:ae2:certus_quartz_wrench"
+      },
+      {
+        "stack": "item:farmersdelight:flint_knife",
+        "after": "item:ae2:certus_quartz_wrench"
+      },
+
+      {
+        "stack": "item:tridents_n_stuff:harpoon_launcher",
+        "after": "item:combatify:netherite_longsword"
+      },
+      {
+        "stack": "item:tridents_n_stuff:bone_harpoon",
+        "after": "item:combatify:netherite_longsword"
+      },
+      {
+        "stack": "item:tridents_n_stuff:prismarine_harpoon",
+        "after": "item:combatify:netherite_longsword"
+      },
+      
+      {
+        "stack": "item:tridents_n_stuff:netherite_spear",
+        "after": "item:combatify:netherite_longsword"
+      },
+      {
+        "stack": "item:tridents_n_stuff:diamond_spear",
+        "after": "item:combatify:netherite_longsword"
+      },
+      {
+        "stack": "item:tridents_n_stuff:golden_spear",
+        "after": "item:combatify:netherite_longsword"
+      },
+      {
+        "stack": "item:tridents_n_stuff:iron_spear",
+        "after": "item:combatify:netherite_longsword"
+      },
+      {
+        "stack": "item:tridents_n_stuff:stone_spear",
+        "after": "item:combatify:netherite_longsword"
+      },
+      {
+        "stack": "item:tridents_n_stuff:wooden_spear",
+        "after": "item:combatify:netherite_longsword"
+      }
+    ],
+    "removed": [
+      "item:tridents_n_stuff:wooden_spear",
+      "item:tridents_n_stuff:stone_spear",
+      "item:tridents_n_stuff:iron_spear",
+      "item:tridents_n_stuff:golden_spear",
+      "item:tridents_n_stuff:diamond_spear",
+      "item:tridents_n_stuff:netherite_spear",
+      "item:farmersdelight:flint_knife",
+      "item:farmersdelight:iron_knife",
+      "item:farmersdelight:golden_knife",
+      "item:farmersdelight:diamond_knife",
+      "item:farmersdelight:netherite_knife",
+      "item:tridents_n_stuff:harpoon_launcher",
+      "item:tridents_n_stuff:bone_harpoon",
+      "item:tridents_n_stuff:prismarine_harpoon"
+    ]
+  }

@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "create_dd:overcharge_alloy",
+        "minecraft:enchanted_book",
+        "ae2:charged_certus_quartz_crystal",
+        "ae2:meteorite_compass"
+    ]
+}

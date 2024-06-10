@@ -1,8 +1,0 @@
-{
-  "type": "forge:add_features",
-  "biomes": "#botania:marimorphosis_desert_bonus",
-  "features": [
-    "rock_and_stone:noise_desert"
-  ],
-  "step": "raw_generation"
-}

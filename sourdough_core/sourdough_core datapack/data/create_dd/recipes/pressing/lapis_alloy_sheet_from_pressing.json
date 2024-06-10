@@ -1,0 +1,14 @@
+{
+	"type": "create:pressing",
+	"ingredients": [
+	  {
+		"item": "create_dd:lapis_alloy"
+	  }
+	],
+	"results": [
+	  {
+		"item": "create_dd:lapis_sheet",
+		"count": 4
+	  }
+	]
+  }

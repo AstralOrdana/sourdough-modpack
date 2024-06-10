@@ -1,19 +1,47 @@
 {
-  "type": "create:compacting",
-  "ingredients": [
-    {
-      "item": "create:golden_sheet"
-    },
-    {
-      "item": "ae2:logic_processor_press"
-    }
-  ],
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:gold_ingot"
+  },
+  "loops": 1,
   "results": [
     {
       "item": "ae2:printed_logic_processor"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "keepHeldItem": "true",
+      "ingredients": [
+        {
+          "item": "minecraft:gold_ingot"
+        },
+        {
+          "item": "ae2:logic_processor_press"
+        }
+      ],
+      "results": [
+        {
+          "item": "ae2:printed_logic_processor"
+        }
+      ]
     },
     {
-      "item": "ae2:logic_processor_press"
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "minecraft:gold_ingot"
+        }
+      ],
+      "results": [
+        {
+          "item": "ae2:printed_logic_processor"
+        }
+      ]
     }
-  ]
+  ],
+  "transitionalItem": {
+    "item": "ae2:printed_logic_processor"
+  }
 }

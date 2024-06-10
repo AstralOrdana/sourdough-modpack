@@ -1,0 +1,23 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "A_A",
+        "A_A",
+        " C "
+    ],
+    "key": {
+        "A": {
+            "item": "create:andesite_alloy"
+        },
+        "_": {
+            "item": "create:shaft"
+        },
+        "C": {
+            "item": "create:andesite_casing"
+        }
+    },
+    "result": {
+        "item": "createaddition:rolling_mill"
+    }
+}

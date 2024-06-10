@@ -33,7 +33,7 @@
                   {
                     "type": "minecraft:item",
                     "weight": 1,
-                    "name": "twigs:pebble",
+                    "name": "spelunkery:stone_pebble",
                     "functions": [
                       {
                         "function": "minecraft:set_count",

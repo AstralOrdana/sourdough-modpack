@@ -8,7 +8,7 @@
     ],
     "key": {
         "#": {
-            "item": "create:industrial_iron_block"
+            "item": "createdeco:industrial_iron_ingot"
         },
         "C": {
             "item": "create:chute"

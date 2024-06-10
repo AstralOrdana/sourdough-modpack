@@ -39,7 +39,7 @@
         "secondary_stone_type": {
           "type": "minecraft:simple_state_provider",
           "state": {
-            "Name": "twigs:silt"
+            "Name": "immersive_weathering:silt"
           }
         },
         "stone_pattern": {

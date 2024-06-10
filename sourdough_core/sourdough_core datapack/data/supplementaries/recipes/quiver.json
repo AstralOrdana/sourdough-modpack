@@ -4,15 +4,16 @@
     "pattern": [
         " # ",
         "# #",
-        "## "
+        "##S"
     ],
     "key": {
-        "#": [
-            {"item": "farmersdelight:canvas"},
-            {"item": "minecraft:leather"},
-            {"item": "minecraft:rabbit_hide"}
-        ]
-    },
+        "#": {
+          "item": "scout:tanned_leather"
+        },
+        "S": {
+          "item": "scout:satchel_strap"
+        }
+      },
     "result": {
         "item": "supplementaries:quiver"
     }

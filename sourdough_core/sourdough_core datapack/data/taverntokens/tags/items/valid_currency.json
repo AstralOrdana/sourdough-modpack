@@ -1,0 +1,12 @@
+{
+    "replace": true,
+    "values": [
+      "numismatics:bevel",
+      "numismatics:cog",
+      "numismatics:crown",
+      "numismatics:sprocket",
+      "numismatics:spur",
+      "numismatics:sun"
+    ]
+  }
+  

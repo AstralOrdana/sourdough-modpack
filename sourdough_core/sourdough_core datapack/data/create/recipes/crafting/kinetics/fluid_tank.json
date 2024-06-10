@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "O",
+      "I",
+      "O"
+    ],
+    "key": {
+      "I": {
+        "item": "ae2:quartz_glass"
+      },
+      "O": {
+        "item": "create:copper_sheet"
+      }
+    },
+    "result": {
+      "item": "create:fluid_tank"
+    }
+  }

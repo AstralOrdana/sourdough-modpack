@@ -1,0 +1,340 @@
+{
+    "added": [
+      {
+        "stack": "item:create_dd:mithril_nugget",
+        "after": "item:minecraft:gold_nugget"
+      },
+      {
+        "stack": "item:createdeco:netherite_nugget",
+        "after": "item:minecraft:gold_nugget"
+      },
+      {
+        "stack": "item:create_dd:steel_nugget",
+        "after": "item:minecraft:gold_nugget"
+      },
+      {
+        "stack": "item:create_dd:bronze_nugget",
+        "after": "item:minecraft:gold_nugget"
+      },
+      {
+        "stack": "item:create_dd:tin_nugget",
+        "after": "item:minecraft:gold_nugget"
+      },
+      {
+        "stack": "item:createdeco:industrial_iron_nugget",
+        "after": "item:minecraft:gold_nugget"
+      },
+      {
+        "stack": "item:create:brass_nugget",
+        "after": "item:minecraft:gold_nugget"
+      },
+      {
+        "stack": "item:create:zinc_nugget",
+        "after": "item:minecraft:gold_nugget"
+      },
+      {
+        "stack": "item:spelunkery:bismuth_nugget",
+        "after": "item:minecraft:gold_nugget"
+      },
+      {
+        "stack": "item:create:copper_nugget",
+        "after": "item:minecraft:iron_nugget"
+      },
+
+      {
+        "stack": "item:createaddition:gold_wire",
+        "after": "item:minecraft:gold_ingot"
+      },
+      {
+        "stack": "item:createaddition:copper_wire",
+        "after": "item:minecraft:gold_ingot"
+      },
+      {
+        "stack": "item:createaddition:iron_wire",
+        "after": "item:minecraft:gold_ingot"
+      },
+      {
+        "stack": "item:createaddition:brass_rod",
+        "after": "item:minecraft:gold_ingot"
+      },
+      {
+        "stack": "item:createaddition:gold_rod",
+        "after": "item:minecraft:gold_ingot"
+      },
+      {
+        "stack": "item:createaddition:copper_rod",
+        "after": "item:minecraft:gold_ingot"
+      },
+      {
+        "stack": "item:createaddition:iron_rod",
+        "after": "item:minecraft:gold_ingot"
+      },
+      {
+        "stack": "item:create_dd:mithril_sheet",
+        "after": "item:minecraft:gold_ingot"
+      },
+      {
+        "stack": "item:create_dd:bronze_sheet",
+        "after": "item:minecraft:gold_ingot"
+      },
+      {
+        "stack": "item:create_dd:tin_sheet",
+        "after": "item:minecraft:gold_ingot"
+      },
+      {
+        "stack": "item:create_dd:lapis_sheet",
+        "after": "item:minecraft:gold_ingot"
+      },
+      {
+        "stack": "item:create:sturdy_sheet",
+        "after": "item:minecraft:gold_ingot"
+      },
+      {
+        "stack": "item:createdeco:industrial_iron_sheet",
+        "after": "item:minecraft:gold_ingot"
+      },
+      {
+        "stack": "item:create:brass_sheet",
+        "after": "item:minecraft:gold_ingot"
+      },
+      {
+        "stack": "item:createdeco:zinc_sheet",
+        "after": "item:minecraft:gold_ingot"
+      },
+      {
+        "stack": "item:createdeco:andesite_sheet",
+        "after": "item:minecraft:gold_ingot"
+      },
+      {
+        "stack": "item:create:golden_sheet",
+        "after": "item:minecraft:gold_ingot"
+      },
+      {
+        "stack": "item:create:copper_sheet",
+        "after": "item:minecraft:gold_ingot"
+      },
+      {
+        "stack": "item:create:iron_sheet",
+        "after": "item:minecraft:gold_ingot"
+      },
+      {
+        "stack": "item:create_dd:mithril_ingot",
+        "after": "item:minecraft:gold_ingot"
+      },
+      {
+        "stack": "item:createutilities:void_steel_ingot",
+        "after": "item:minecraft:gold_ingot"
+      },
+      {
+        "stack": "item:minecraft:netherite_ingot",
+        "after": "item:minecraft:gold_ingot"
+      },
+      {
+        "stack": "item:create_dd:steel_ingot",
+        "after": "item:minecraft:gold_ingot"
+      },
+      {
+        "stack": "item:create_dd:bronze_ingot",
+        "after": "item:minecraft:gold_ingot"
+      },
+      {
+        "stack": "item:create_dd:tin_ingot",
+        "after": "item:minecraft:gold_ingot"
+      },
+      {
+        "stack": "item:createdeco:industrial_iron_ingot",
+        "after": "item:minecraft:gold_ingot"
+      },
+      {
+        "stack": "item:create:brass_ingot",
+        "after": "item:minecraft:gold_ingot"
+      },
+      {
+        "stack": "item:create:zinc_ingot",
+        "after": "item:minecraft:gold_ingot"
+      },
+      {
+        "stack": "item:etcetera:bismuth_ingot",
+        "after": "item:minecraft:gold_ingot"
+      },
+
+      {
+        "stack": "item:spelunkery:raw_tin_nugget",
+        "after": "item:spelunkery:raw_gold_nugget"
+      },
+      {
+        "stack": "item:molten_metals:slag_nugget",
+        "after": "item:spelunkery:raw_gold_nugget"
+      },
+      {
+        "stack": "item:create:raw_zinc_nugget",
+        "after": "item:spelunkery:raw_gold_nugget"
+      },
+      {
+        "stack": "item:spelunkery:raw_bismuth_nugget",
+        "after": "item:spelunkery:raw_gold_nugget"
+      },
+      {
+        "stack": "item:spelunkery:raw_magnetite_nugget",
+        "after": "item:spelunkery:raw_gold_nugget"
+      },
+
+      {
+        "stack": "item:minecraft:ancient_debris",
+        "after": "item:minecraft:raw_gold_block"
+      },
+      {
+        "stack": "item:molten_metals:slag_block",
+        "after": "item:minecraft:raw_gold_block"
+      },
+      {
+        "stack": "item:create_dd:raw_tin_block",
+        "after": "item:minecraft:raw_gold_block"
+      },
+      {
+        "stack": "item:create:raw_zinc_block",
+        "after": "item:minecraft:raw_gold_block"
+      },
+      {
+        "stack": "item:etcetera:raw_bismuth_block",
+        "after": "item:minecraft:raw_gold_block"
+      },
+      {
+        "stack": "item:spelunkery:raw_magnetite_block",
+        "after": "item:minecraft:raw_gold_block"
+      },
+
+      {
+        "stack": "item:create:crushed_raw_tin",
+        "after": "item:minecraft:raw_gold"
+      },
+      {
+        "stack": "item:create:crushed_raw_zinc",
+        "after": "item:minecraft:raw_gold"
+      },
+      {
+        "stack": "item:create:crushed_raw_gold",
+        "after": "item:minecraft:raw_gold"
+      },
+      {
+        "stack": "item:create:crushed_raw_copper",
+        "after": "item:minecraft:raw_gold"
+      },
+      {
+        "stack": "item:create:crushed_raw_iron",
+        "after": "item:minecraft:raw_gold"
+      },
+      {
+        "stack": "item:minecraft:netherite_scrap",
+        "after": "item:minecraft:raw_gold"
+      },
+      {
+        "stack": "item:molten_metals:slag",
+        "after": "item:minecraft:raw_gold"
+      },
+      {
+        "stack": "item:create_dd:raw_tin",
+        "after": "item:minecraft:raw_gold"
+      },
+      {
+        "stack": "item:create:raw_zinc",
+        "after": "item:minecraft:raw_gold"
+      },
+      {
+        "stack": "item:etcetera:raw_bismuth",
+        "after": "item:minecraft:raw_gold"
+      },
+      {
+        "stack": "item:spelunkery:raw_magnetite",
+        "after": "item:minecraft:raw_gold"
+      },
+
+      {
+        "stack": "item:create_dd:deepslate_tin_ore",
+        "after": "item:spelunkery:smooth_basalt_diamond_ore"
+      },
+      {
+        "stack": "item:create_dd:tin_ore",
+        "after": "item:spelunkery:smooth_basalt_diamond_ore"
+      },
+      {
+        "stack": "item:create:deepslate_zinc_ore",
+        "after": "item:spelunkery:smooth_basalt_diamond_ore"
+      },
+      {
+        "stack": "item:create:zinc_ore",
+        "after": "item:spelunkery:smooth_basalt_diamond_ore"
+      },
+      {
+        "stack": "item:ditr:obsidian_diamond_ore",
+        "after": "item:spelunkery:smooth_basalt_diamond_ore"
+      }
+    ],
+    "removed": [
+      "item:create_dd:tin_ore",
+      "item:create_dd:deepslate_tin_ore",
+      "item:create:zinc_ore",
+      "item:create:deepslate_zinc_ore",
+      "item:ditr:obsidian_diamond_ore",
+      "item:create:raw_zinc_block",
+      "item:create_dd:raw_tin_block",
+      "item:molten_metals:slag_nugget",
+      "item:create:raw_zinc_nugget",
+      "item:spelunkery:raw_magnetite_nugget",
+      "item:create_dd:mithril_nugget",
+      "item:createdeco:netherite_nugget",
+      "item:create_dd:steel_nugget",
+      "item:create_dd:bronze_nugget",
+      "item:create_dd:tin_nugget",
+      "item:createdeco:industrial_iron_nugget",
+      "item:create:brass_nugget",
+      "item:create:zinc_nugget",
+      "item:create:copper_nugget",
+      "item:create_dd:mithril_sheet",
+      "item:create_dd:bronze_sheet",
+      "item:create_dd:tin_sheet",
+      "item:create_dd:lapis_sheet",
+      "item:create:sturdy_sheet",
+      "item:createdeco:industrial_iron_sheet",
+      "item:create:brass_sheet",
+      "item:createdeco:zinc_sheet",
+      "item:createdeco:andesite_sheet",
+      "item:create:golden_sheet",
+      "item:create:copper_sheet",
+      "item:create:iron_sheet",
+      "item:createaddition:gold_wire",
+      "item:createaddition:copper_wire",
+      "item:createaddition:iron_wire",
+      "item:createaddition:brass_rod",
+      "item:createaddition:gold_rod",
+      "item:createaddition:copper_rod",
+      "item:createaddition:iron_rod",
+      "item:create_dd:mithril_ingot",
+      "item:createutilities:void_steel_ingot",
+      "item:minecraft:netherite_ingot",
+      "item:create_dd:steel_ingot",
+      "item:create_dd:bronze_ingot",
+      "item:create_dd:tin_ingot",
+      "item:createdeco:industrial_iron_ingot",
+      "item:create:brass_ingot",
+      "item:create:zinc_ingot",
+      "item:etcetera:bismuth_ingot",
+      "item:minecraft:ancient_debris",
+      "item:molten_metals:slag_block",
+      "item:create_dd:raw_tin_block",
+      "item:create:raw_zinc_block",
+      "item:etcetera:raw_bismuth_block",
+      "item:spelunkery:raw_magnetite_block",
+      "item:minecraft:netherite_scrap",
+      "item:molten_metals:slag",
+      "item:create_dd:raw_tin",
+      "item:create:raw_zinc",
+      "item:etcetera:raw_bismuth",      
+      "item:spelunkery:raw_magnetite",
+      "item:create:crushed_raw_iron",
+      "item:create:crushed_raw_gold",
+      "item:create:crushed_raw_tin",
+      "item:create:crushed_raw_zinc",
+      "item:create:crushed_raw_copper"
+    ]
+  }

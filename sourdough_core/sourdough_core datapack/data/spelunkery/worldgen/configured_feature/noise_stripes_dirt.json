@@ -29,7 +29,7 @@
         "primary_stone_type": {
           "type": "minecraft:simple_state_provider",
           "state": {
-            "Name": "twigs:rocky_dirt"
+            "Name": "decorative_blocks:rocky_dirt"
           }
         },
         "secondary_stone_type": {
@@ -57,7 +57,7 @@
         "secondary_stone_type": {
           "type": "minecraft:simple_state_provider",
           "state": {
-            "Name": "twigs:rocky_dirt"
+            "Name": "decorative_blocks:rocky_dirt"
           }
         },
         "stone_pattern": {

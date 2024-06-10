@@ -1,0 +1,9 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"item": "minecraft:gold_ingot"
+	},
+	"result": {
+		"item": "create:golden_sheet"
+	}
+}

@@ -1,0 +1,16 @@
+{
+    "filters": [
+        {"id": "/emi:/emi/bucket_filling/"},
+        {"id": "/emi:/world/cauldron_washing/"},
+        {"id": "supplementaries:ash_burn"},
+        {"id": "spelunkery:/cinnabar_block"},
+        {"id": "spelunkery:/diamond_block"},
+        {"id": "spelunkery:/emerald_block"},
+        {"id": "spelunkery:/lazurite_block"},
+        {"id": "spelunkery:/cinnabar_shard"},
+        {"id": "spelunkery:/diamond_shard"},
+        {"id": "spelunkery:/emerald_shard"},
+        {"id": "spelunkery:/lazurite_shard"},
+        {"id": "spelunkery:/diamond_grindstone_repair"}
+    ]
+  }

@@ -1,0 +1,20 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        " W ",
+        "W#W",
+        " W "
+    ],
+    "key": {
+        "#": {
+            "item": "create:andesite_alloy"
+        },
+        "W": {
+            "item": "createdeco:andesite_sheet"
+        }
+    },
+    "result": {
+        "item": "create:propeller"
+    }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "D": {
+      "item": "create:andesite_alloy"
+    },
+    "Z": {
+      "item": "create:shaft"
+    },
+    "S": {
+      "item": "minecraft:copper_ingot"
+    },
+    "T": {
+      "item": "create:fluid_tank"
+    }
+  },
+  "pattern": [
+    "DZD",
+    "STS",
+    " S "
+  ],
+  "result": {
+    "item": "create:copper_backtank"
+  }
+}

@@ -1,50 +1,17 @@
 {
-  "type": "create:sequenced_assembly",
-  "ingredient": {
-    "item": "createutilities:polished_amethyst"
-  },
-  "loops": 1,
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "createutilities:polished_amethyst"
+    },
+    {
+      "fluid": "spelunkery:portal_fluid",
+      "amount": 9000
+    }
+  ],
   "results": [
     {
       "item": "createutilities:graviton_tube"
     }
-  ],
-  "sequence": [
-    {
-      "type": "create:deploying",
-      "ingredients": [
-        {
-          "item": "createutilities:polished_amethyst"
-        },
-        {
-          "item": "createutilities:void_steel_ingot"
-        }
-      ],
-      "results": [
-        {
-          "item": "createutilities:polished_amethyst"
-        }
-      ]
-    },
-    {
-      "type": "create:filling",
-      "ingredients": [
-        {
-          "item": "createutilities:polished_amethyst"
-        },
-        {
-          "amount": 8100,
-          "fluid": "spelunkery:portal_fluid"
-        }
-      ],
-      "results": [
-        {
-          "item": "createutilities:graviton_tube"
-        }
-      ]
-    }
-  ],
-  "transitionalItem": {
-    "item": "createutilities:polished_amethyst"
-  }
+  ]
 }

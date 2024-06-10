@@ -8,10 +8,9 @@
       "A": {
         "item": "minecraft:andesite"
       },
-      "B": [
-        {"item": "spelunkery:raw_iron_nugget"},
-        {"item": "spelunkery:raw_zinc_nugget"}
-      ]
+      "B": {
+        "item": "spelunkery:cinnabar_shard"
+      }
     },
     "result": {
       "item": "create:andesite_alloy",

@@ -1,0 +1,53 @@
+{
+    "added": [
+      {
+        "stack": "item:create:track_observer",
+        "after": "item:railways:semaphore"
+      },
+      {
+        "stack": "item:create:track_signal",
+        "after": "item:railways:semaphore"
+      },
+      {
+        "stack": "item:create:track_station",
+        "after": "item:railways:conductor_whistle"
+      },
+      {
+        "stack": "item:create:controls",
+        "after": "item:railways:conductor_whistle"
+      },
+      {
+        "stack": "item:create:schedule",
+        "after": "item:railways:conductor_whistle"
+      },
+      {
+        "stack": "item:railways:remote_lens",
+        "after": "item:railways:conductor_whistle"
+      },
+
+      {
+        "stack": "item:railways:conductor_vent",
+        "after": "item:railways:smokestack_diesel"
+      },
+
+      {
+        "stack": "item:create:railway_casing",
+        "after": "item:railways:copycat_headstock_buffer"
+      },
+      {
+        "stack": "item:create:track",
+        "after": "item:railways:portable_fuel_interface"
+      }
+    ],
+    "removed": [
+      "item:create:track",
+      "item:create:railway_casing",
+      "item:railways:conductor_vent",
+      "item:railways:remote_lens",
+      "item:create:schedule",
+      "item:create:controls",
+      "item:create:track_station",
+      "item:create:track_signal",
+      "item:create:track_observer"
+    ]
+  }

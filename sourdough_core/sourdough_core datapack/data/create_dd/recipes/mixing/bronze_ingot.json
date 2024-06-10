@@ -1,0 +1,24 @@
+  {
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "fluid": "molten_metals:molten_copper",
+        "amount": 27000
+      },
+      {
+        "fluid": "molten_metals:molten_tin",
+        "amount": 9000
+      },
+      {
+        "fluid": "molten_metals:molten_zinc",
+        "amount": 9000
+      }
+    ],
+    "results": [
+      {
+        "fluid": "molten_metals:molten_bronze",
+        "amount": 18000
+      }
+    ],
+    "heatRequirement": "superheated"
+  }

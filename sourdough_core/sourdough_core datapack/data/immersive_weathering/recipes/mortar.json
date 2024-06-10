@@ -1,0 +1,30 @@
+{
+    "conditions": [
+      {
+        "modid": "create",
+        "type": "forge:mod_loaded"
+      }
+    ],
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "fluid": "minecraft:water",
+        "amount": 27000
+      },
+      {
+        "item": "minecraft:clay_ball"
+      },
+      {
+        "item": "minecraft:bone_meal"
+      },
+      {
+        "item": "immersive_weathering:sand_layer_block"
+      }
+    ],
+    "results": [
+      {
+        "item": "immersive_weathering:mortar",
+        "count": 16
+      }
+    ]
+  }

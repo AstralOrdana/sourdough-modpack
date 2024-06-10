@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "RRR",
+      "# #",
+      "###"
+    ],
+    "key": {
+      "R": {
+        "item": "supplementaries:rope"
+        },
+        "#": {
+          "item": "minecraft:leather"
+        }
+      },
+      "result": {
+        "item": "scout:satchel"
+      }
+    }

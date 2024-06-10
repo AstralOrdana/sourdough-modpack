@@ -1,0 +1,23 @@
+
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "/",
+        "H",
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "create_dd:steel_block"
+        },
+        "/": {
+            "item": "create:piston_extension_pole"
+        },
+        "H": {
+            "item": "create:andesite_casing"
+        }
+    },
+    "result": {
+        "item": "create:mechanical_press"
+    }
+}

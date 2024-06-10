@@ -1,0 +1,30 @@
+{
+  "type": "lychee:block_interacting",
+  "block_in": {
+    "tag": "create_tweaks:standard_tracks"
+  },
+  "contextual": [
+  {
+    "type": "not",
+    "contextual": {
+      "type": "is_sneaking"
+    }
+  }
+  ],
+  "post": [
+      {
+          "type": "execute",
+          "command": "playsound create:wrench_remove_compounded_1 block @a ~ ~ ~"
+      },
+      {
+          "type": "prevent_default"
+      },
+      {
+        "type": "place",
+        "block": "railways:track_crimson"
+      }
+  ],
+  "item_in": {
+    "item": "minecraft:crimson_planks"
+  }
+}
